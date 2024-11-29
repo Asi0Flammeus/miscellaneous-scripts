@@ -1,0 +1,142 @@
+{
+    "crypto302": {
+        "Part 1": {
+            "en": "An Introduction to Cryptography"
+        },
+        "Part 1 Chapter 1": {
+            "en": "Short description"
+        },
+        "Part 2": {
+            "en": "What is Cryptography?"
+        },
+        "Part 2 Chapter 1": {
+            "en": "The Beale ciphers"
+        },
+        "Part 2 Chapter 2": {
+            "en": "Modern cryptography"
+        },
+        "Part 2 Chapter 3": {
+            "en": "Open communications"
+        },
+        "Part 3": {
+            "en": "Mathematical Foundations of Cryptography I"
+        },
+        "Part 3 Chapter 1": {
+            "en": "Random variables"
+        },
+        "Part 3 Chapter 2": {
+            "en": "The modulo operation"
+        },
+        "Part 3 Chapter 3": {
+            "en": "The XOR operation"
+        },
+        "Part 3 Chapter 4": {
+            "en": "Pseudorandomness"
+        },
+        "Part 3 Chapter 5": {
+            "en": "Notes"
+        },
+        "Part 4": {
+            "en": "Mathematical Foundations of Cryptography II"
+        },
+        "Part 4 Chapter 1": {
+            "en": "What is number theory?"
+        },
+        "Part 4 Chapter 2": {
+            "en": "Groups"
+        },
+        "Part 4 Chapter 3": {
+            "en": "Cyclic groups"
+        },
+        "Part 4 Chapter 4": {
+            "en": "Fields"
+        },
+        "Part 4 Chapter 5": {
+            "en": "Abstract algebra in practice"
+        },
+        "Part 4 Chapter 6": {
+            "en": "Further exploration"
+        },
+        "Part 5": {
+            "en": "Symmetric Cryptography"
+        },
+        "Part 5 Chapter 1": {
+            "en": "Alice and Bob"
+        },
+        "Part 5 Chapter 2": {
+            "en": "Symmetric encryption schemes"
+        },
+        "Part 5 Chapter 3": {
+            "en": "An example: The shift cipher"
+        },
+        "Part 5 Chapter 4": {
+            "en": "Brute force attacks and Kerckhoff's principle"
+        },
+        "Part 5 Chapter 5": {
+            "en": "Stream ciphers"
+        },
+        "Part 5 Chapter 6": {
+            "en": "Block ciphers"
+        },
+        "Part 5 Chapter 7": {
+            "en": "Clearing up the confusion"
+        },
+        "Part 5 Chapter 8": {
+            "en": "Message authentication codes"
+        },
+        "Part 5 Chapter 9": {
+            "en": "Authenticated encryption"
+        },
+        "Part 5 Chapter 10": {
+            "en": "Secure communication sessions"
+        },
+        "Part 5 Chapter 11": {
+            "en": "Notes"
+        },
+        "Part 6": {
+            "en": "RC4 and AES"
+        },
+        "Part 6 Chapter 1": {
+            "en": "The RC4 stream cipher"
+        },
+        "Part 6 Chapter 2": {
+            "en": "AES with a 128-bit key"
+        },
+        "Part 7": {
+            "en": "Asymmetric Cryptography"
+        },
+        "Part 7 Chapter 1": {
+            "en": "The key distribution and management problem"
+        },
+        "Part 7 Chapter 2": {
+            "en": "New directions in cryptography"
+        },
+        "Part 7 Chapter 3": {
+            "en": "Asymmetric encryption and authentication"
+        },
+        "Part 7 Chapter 4": {
+            "en": "Hash functions"
+        },
+        "Part 8": {
+            "en": "The RSA cryptosystem"
+        },
+        "Part 8 Chapter 1": {
+            "en": "The factoring problem"
+        },
+        "Part 8 Chapter 2": {
+            "en": "Number theoretic results"
+        },
+        "Part 8 Chapter 3": {
+            "en": "The RSA cryptosystem"
+        },
+        "Part 9": {
+            "en": "Contributions"
+        },
+        "Part 9 Chapter 1": {
+            "en": "About"
+        },
+        "Part 9 Chapter 2": {
+            "en": "Notation"
+        }
+    }
+}

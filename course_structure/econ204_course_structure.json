@@ -1,0 +1,164 @@
+{
+    "econ204": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "序章",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução",
+            "ja": "序章",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 2": {
+            "pt": "O que é inflação?",
+            "ja": "インフレとは何か？",
+            "es": "¿Qué es la inflación?",
+            "vi": "Lạm phát là gì?",
+            "fr": "Qu’est-ce que l’inflation ?",
+            "de": "Was ist Inflation?",
+            "it": "Cos'è l'inflazione?",
+            "en": "What is inflation?"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Um fenômeno monetário",
+            "ja": "金融現象",
+            "es": "Un fenómeno monetario",
+            "vi": "Một hiện tượng tiền tệ",
+            "fr": "Un phénomène monétaire",
+            "de": "Ein monetäres Phänomen",
+            "it": "Un fenomeno monetario",
+            "en": "A monetary phenomenon"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Os tipos de inflação",
+            "ja": "インフレのタイプ",
+            "es": "Los tipos de inflación",
+            "vi": "Các Loại Lạm Phát",
+            "fr": "Les types d’inflation",
+            "de": "Die Arten von Inflation",
+            "it": "I tipi di inflazione",
+            "en": "Types of Inflation"
+        },
+        "Part 3": {
+            "pt": "O que é hiperinflação?",
+            "ja": "ハイパーインフレーションとは何か？",
+            "es": "¿Qué es la hiperinflación?",
+            "vi": "Lạm phát cực kỳ cao là gì?",
+            "fr": "Qu’est-ce que l’hyperinflation ?",
+            "de": "Was ist Hyperinflation?",
+            "it": "Cos'è l'iperinflazione?",
+            "en": "What is hyperinflation?"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Definições de hiperinflação",
+            "ja": "ハイパーインフレーションの定義",
+            "es": "Definiciones de la hiperinflación",
+            "vi": "Định nghĩa về lạm phát cực kỳ cao",
+            "fr": "Les définitions de l'hyperinflation",
+            "de": "Definitionen der Hyperinflation",
+            "it": "Le definizioni di iperinflazione",
+            "en": "Definitions of hyperinflation"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Semelhanças entre Weimar e Zimbabwe",
+            "ja": "ヴァイマール共和国とジンバブエの類似点",
+            "es": "Similitudes entre Weimar y Zimbabwe",
+            "vi": "So sánh giữa Weimar và Zimbabwe",
+            "fr": "Weimar vs Zimbabwe similitudes",
+            "de": "Ähnlichkeiten zwischen Weimar und Simbabwe",
+            "it": "Similitudini tra Weimar e Zimbabwe",
+            "en": "Weimar vs Zimbabwe similarities"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Diferenças entre Weimar e Zimbábue e paralelos contemporâneos",
+            "ja": "ヴァイマール対ジンバブエ：違いと現代の類似点",
+            "es": "Diferencias entre Weimar y Zimbabwe y paralelismos contemporáneos",
+            "vi": "Weimar vs Zimbabwe: Những Điểm Khác Biệt và Song Song Đương Đại",
+            "fr": "Weimar vs Zimbabwe différences et parallèle contemporains",
+            "de": "Unterschiede zwischen Weimar und Simbabwe und zeitgenössische Parallelen",
+            "it": "Weimar vs Zimbabwe: Differenze e Paralleli Contemporanei",
+            "en": "Weimar vs Zimbabwe: Differences and Contemporary Parallels"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "As redenominações na América Latina",
+            "ja": "ラテンアメリカの通貨再建",
+            "es": "Las redenominaciones en América Latina",
+            "vi": "Đổi tiền ở Mỹ Latinh",
+            "fr": "Les redénominations en Amérique Latine",
+            "de": "Währungsumstellungen in Lateinamerika",
+            "it": "Le riforme valutarie in America Latina",
+            "en": "Redenominations in Latin America"
+        },
+        "Part 3 Chapter 5": {
+            "pt": "Como sair da hiperinflação",
+            "ja": "ハイパーインフレを克服する方法",
+            "es": "Cómo salir de la hiperinflación",
+            "vi": "Cách vượt qua siêu lạm phát",
+            "fr": "Comment sortir de l’hyperinflation",
+            "de": "Wie man Hyperinflation überwindet",
+            "it": "Come uscire dall'iperinflazione",
+            "en": "How to overcome hyperinflation"
+        },
+        "Part 3 Chapter 6": {
+            "pt": "Conclusão",
+            "ja": "結論",
+            "es": "Conclusión",
+            "vi": "Kết luận",
+            "fr": "Conclusion",
+            "de": "Schlussfolgerung",
+            "it": "Conclusioni",
+            "en": "Conclusion"
+        },
+        "Part 3 Chapter 7": {
+            "pt": "Apresentação da coleção de notas de hiperinflação",
+            "ja": "ハイパーインフレ紙幣コレクションの紹介",
+            "es": "Presentación de la colección de billetes de hiperinflación",
+            "vi": "Trình bày bộ sưu tập tiền giấy lạm phát cao",
+            "fr": "Présentation de la collection de billets d’hyperinflation",
+            "de": "Vorstellung der Sammlung von Hyperinflationsbanknoten",
+            "it": "Presentazione della collezione di banconote iperinflazionate",
+            "en": "Presentation of the hyperinflation banknote collection"
+        },
+        "Part 4": {
+            "pt": "Como chegamos até aqui?",
+            "ja": "どうしてこうなったのか？",
+            "es": "¿Cómo llegamos aquí?",
+            "vi": "Chúng ta đã đến đây như thế nào?",
+            "fr": "Comment en sommes nous arrivés là ?",
+            "de": "Wie sind wir hierher gekommen?",
+            "it": "Come siamo arrivati qui?",
+            "en": "How did we get here?"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "O surgimento da segunda camada monetária e dos bancos centrais",
+            "ja": "お金と中央銀行の第二層の出現",
+            "es": "La aparición de la segunda capa de la moneda y los bancos centrales",
+            "vi": "Sự Xuất Hiện của Lớp Tiền Thứ Hai và Ngân Hàng Trung Ương",
+            "fr": "L’émergence de la deuxième couche de la monnaie et des banques centrales",
+            "de": "Das Aufkommen der zweiten Geldschicht und der Zentralbanken",
+            "it": "L'emergere del secondo strato della moneta e delle banche centrali",
+            "en": "The Emergence of the Second Layer of Money and Central Banks"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Livros e recursos",
+            "ja": "書籍とリソース",
+            "es": "Libros y recursos",
+            "vi": "Sách và Tài Nguyên",
+            "fr": "Livres et ressources",
+            "de": "Bücher und Ressourcen",
+            "it": "Libri e risorse",
+            "en": "Books and Resources"
+        }
+    }
+}

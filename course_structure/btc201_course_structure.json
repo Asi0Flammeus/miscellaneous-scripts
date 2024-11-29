@@ -1,0 +1,271 @@
+{
+    "btc201": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "導入",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução",
+            "ja": "導入",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 2": {
+            "pt": "O Preço do Progresso - Um Olhar Mais Atento ao Nosso Sistema Financeiro",
+            "ja": "進歩の代償 - 私たちの金融システムをより深く見る",
+            "es": "El Precio del Progreso - Una Mirada Cercana a Nuestro Sistema Financiero",
+            "vi": "Giá của Tiến Bộ - Một Cái Nhìn Sâu hơn về Hệ Thống Tài Chính của Chúng Ta",
+            "fr": "Le Prix du Progrès - Un Regard Approfondi sur Notre Système Financier",
+            "de": "Der Preis des Fortschritts - Ein genauerer Blick auf unser Finanzsystem",
+            "it": "Il Prezzo del Progresso - Uno Sguardo Approfondito al Nostro Sistema Finanziario",
+            "en": "The Price of Progress - A Closer Look at Our Financial System"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Uma Introdução ao Dinheiro",
+            "ja": "お金への導入",
+            "es": "Una Introducción al Dinero",
+            "vi": "Giới Thiệu về Tiền Tệ",
+            "fr": "Une Introduction à l'Argent",
+            "de": "Eine Einführung in Geld",
+            "it": "Un'introduzione al Denaro",
+            "en": "An Introduction to Money"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Uma Análise de Como Chegamos Aqui",
+            "ja": "ここに至るまでの検討",
+            "es": "Un Examen de Cómo Llegamos Aquí",
+            "vi": "Một Cuộc Khảo Sát về Cách Chúng Ta Đến Đây",
+            "fr": "Un Examen de Comment Nous Sommes Arrivés Ici",
+            "de": "Eine Untersuchung, wie wir hierher gekommen sind",
+            "it": "Un'esame di Come Siamo Arrivati Qui",
+            "en": "An Examination of How We Got Here"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Uma Olhada no Onde Estamos e o Que Podemos Esperar para o Futuro",
+            "ja": "現在の状況と今後の期待について",
+            "es": "Un vistazo a dónde estamos y qué podemos esperar hacia adelante",
+            "vi": "Một Cái Nhìn về Hiện Tại và Những Gì Chúng Ta Có Thể Mong Đợi Trong Tương Lai",
+            "fr": "Un regard sur où nous en sommes et ce à quoi nous pouvons nous attendre à l'avenir",
+            "de": "Ein Blick darauf, wo wir stehen und was wir in der Zukunft erwarten können",
+            "it": "Uno sguardo a dove siamo e cosa possiamo aspettarci andando avanti",
+            "en": "A Look at Where We Are and What We Can Expect Moving Forward"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Exame",
+            "ja": "試験",
+            "es": "Examen",
+            "vi": "Kỳ thi",
+            "fr": "Examen",
+            "de": "Prüfung",
+            "it": "Esame",
+            "en": "Exam"
+        },
+        "Part 3": {
+            "pt": "Libertação Financeira - Uma Introdução ao Bitcoin",
+            "ja": "金融の解放 - ビットコイン入門",
+            "es": "Liberación Financiera - Una Introducción a Bitcoin",
+            "vi": "Giải phóng Tài chính - Giới thiệu về Bitcoin",
+            "fr": "Libération Financière - Une Introduction à Bitcoin",
+            "de": "Finanzielle Befreiung - Eine Einführung in Bitcoin",
+            "it": "Liberazione Finanziaria - Un'introduzione a Bitcoin",
+            "en": "Financial Liberation - An Introduction to Bitcoin"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Pioneiros, Inovadores e as Fundações do Bitcoin",
+            "ja": "パイオニア、イノベーター、そしてビットコインの基礎",
+            "es": "Pioneros, Innovadores y los Fundamentos de Bitcoin",
+            "vi": "Những Người Tiên Phong, Nhà Đổi Mới, & Nền tảng của Bitcoin",
+            "fr": "Pionniers, Innovateurs et les Fondations de Bitcoin",
+            "de": "Pioniere, Innovatoren & die Grundlagen von Bitcoin",
+            "it": "Pionieri, Innovatori e le Fondamenta di Bitcoin",
+            "en": "Pioneers, Innovators, & the Foundations of Bitcoin"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Como o Bitcoin Funciona? Os Mecanismos Internos Deste Dinheiro Mágico da Internet",
+            "ja": "ビットコインの仕組みは？この魔法のようなインターネットマネーの内部構造",
+            "es": "¿Cómo Funciona Bitcoin? Los Entresijos de Este Mágico Dinero de Internet",
+            "vi": "Bitcoin Hoạt Động Như Thế Nào? Cơ Chế Bên Trong của Đồng Tiền Internet Ma Thuật này",
+            "fr": "Comment fonctionne Bitcoin ? Les rouages de cette magie de l'argent Internet",
+            "de": "Wie funktioniert Bitcoin? Die inneren Abläufe dieses magischen Internetgeldes",
+            "it": "Come Funziona Bitcoin? Il Funzionamento Interno di Questa Magica Moneta Internet",
+            "en": "How Does Bitcoin Work? The Inner Workings of This Magical Internet Money"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "O Que Torna o Bitcoin Diferente do Dinheiro Fiat?",
+            "ja": "ビットコインが法定通貨と異なる点は何か？",
+            "es": "¿Qué hace a Bitcoin diferente de la moneda fiduciaria?",
+            "vi": "Bitcoin Khác Biệt với Tiền Tệ Truyền Thống Như Thế Nào?",
+            "fr": "En quoi Bitcoin se distingue-t-il de la monnaie fiduciaire ?",
+            "de": "Was macht Bitcoin im Vergleich zu Fiat anders?",
+            "it": "Cosa rende Bitcoin diverso dalla moneta fiat?",
+            "en": "What Makes Bitcoin Different From Fiat?"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "Interagindo com o Bitcoin",
+            "ja": "ビットコインとのやり取り",
+            "es": "Interactuando con Bitcoin",
+            "vi": "Tương tác với Bitcoin",
+            "fr": "Interagir Avec le Bitcoin",
+            "de": "Interaktion mit Bitcoin",
+            "it": "Interagire con Bitcoin",
+            "en": "Interacting With Bitcoin"
+        },
+        "Part 3 Chapter 5": {
+            "pt": "Exame",
+            "ja": "試験",
+            "es": "Examen",
+            "vi": "Kỳ thi",
+            "fr": "Examen",
+            "de": "Prüfung",
+            "it": "Esame",
+            "en": "Exam"
+        },
+        "Part 4": {
+            "pt": "Estabilidade em Meio ao Caos - Uma Introdução ao Tether & o Mundo das Stablecoins",
+            "ja": "混沌の中の安定 - テザーとステーブルコインの世界への導入",
+            "es": "Estabilidad en Medio del Caos - Una Introducción a Tether y el Mundo de las Stablecoins",
+            "vi": "Sự Ổn Định Giữa Hỗn Loạn - Giới thiệu về Tether & Thế giới của Stablecoins",
+            "fr": "Stabilité au milieu du chaos - Une introduction à Tether & le monde des stablecoins",
+            "de": "Stabilität im Chaos - Eine Einführung in Tether & die Welt der Stablecoins",
+            "it": "Stabilità in mezzo al caos - Un'introduzione a Tether e al mondo delle Stablecoin",
+            "en": "Stability Amidst Chaos - An Introduction to Tether & the World of Stablecoins"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Uma Introdução ao Tether & o Mundo das Stablecoins",
+            "ja": "Tetherと安定コインの世界への紹介",
+            "es": "Una Introducción a Tether y el Mundo de las Stablecoins",
+            "vi": "Giới thiệu về Tether và Thế giới của Stablecoin",
+            "fr": "Une introduction à Tether & le monde des stablecoins",
+            "de": "Eine Einführung in Tether & die Welt der Stablecoins",
+            "it": "Un'introduzione a Tether e al mondo delle Stablecoin",
+            "en": "An Introduction to Tether & the World of Stablecoins"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "História dos Stablecoins",
+            "ja": "ステーブルコインの歴史",
+            "es": "Historia de los Stablecoins",
+            "vi": "Lịch Sử của Stablecoin",
+            "fr": "Histoire des Stablecoins",
+            "de": "Geschichte der Stablecoins",
+            "it": "Storia delle Stablecoin",
+            "en": "History of Stablecoins"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Características das Stablecoins",
+            "ja": "ステーブルコインの特徴",
+            "es": "Características de las Stablecoins",
+            "vi": "Đặc điểm của Stablecoins",
+            "fr": "Caractéristiques des Stablecoins",
+            "de": "Merkmale von Stablecoins",
+            "it": "Caratteristiche delle Stablecoin",
+            "en": "Characteristics of Stablecoins"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "Vantagens das Ofertas de Stablecoin da Tether",
+            "ja": "Tetherのステーブルコイン提供の利点",
+            "es": "Ventajas de las Ofertas de Stablecoin de Tether",
+            "vi": "Lợi ích của Các Đề Xuất Stablecoin của Tether",
+            "fr": "Avantages des offres de Stablecoin de Tether",
+            "de": "Vorteile von Tethers Stablecoin-Angeboten",
+            "it": "Vantaggi delle Offerte di Stablecoin di Tether",
+            "en": "Advantages of Tether’s Stablecoin Offerings"
+        },
+        "Part 4 Chapter 5": {
+            "pt": "Exame",
+            "ja": "試験",
+            "es": "Examen",
+            "vi": "Kỳ Thi",
+            "fr": "Examen",
+            "de": "Prüfung",
+            "it": "Esame",
+            "en": "Exam"
+        },
+        "Part 5": {
+            "pt": "Superando Dúvidas - Desfazendo Equívocos Comuns & Casos de Uso no Mundo Real",
+            "ja": "疑念の克服 - 一般的な誤解と実際の使用例の解明",
+            "es": "Superando Dudas - Desmitificando Conceptos Erróneos y Casos de Uso en el Mundo Real",
+            "vi": "Vượt Qua Nghi Ngờ - Làm Sáng Tỏ Những Hiểu Lầm Phổ Biến & Các Trường Hợp Sử Dụng Thực Tế",
+            "fr": "Surmonter les doutes - Démystifier les idées reçues et les cas d'utilisation réels",
+            "de": "Zweifel überwinden - Häufige Missverständnisse & Praxisbeispiele widerlegen",
+            "it": "Superare i Dubbi - Sfatare i Comuni Luoghi Comuni e Casi d'Uso Reali",
+            "en": "Overcoming Doubts - Debunking Common Misconceptions & Real-World Use Cases"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Equívocos",
+            "ja": "誤解",
+            "es": "Conceptos Erróneos",
+            "vi": "Hiểu Lầm",
+            "fr": "Idées reçues",
+            "de": "Missverständnisse",
+            "it": "Luoghi Comuni",
+            "en": "Misconceptions"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Roya Mahboob",
+            "ja": "ロヤ・マフブーブ",
+            "es": "Roya Mahboob",
+            "vi": "Roya Mahboob",
+            "fr": "Roya Mahboob",
+            "de": "Roya Mahboob",
+            "it": "Roya Mahboob",
+            "en": "Roya Mahboob"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Mercedes",
+            "ja": "メルセデス",
+            "es": "Mercedes",
+            "vi": "Kỳ Thi",
+            "fr": "Mercedes",
+            "de": "Mercedes",
+            "it": "Mercedes",
+            "en": "Mercedes"
+        },
+        "Part 5 Chapter 4": {
+            "pt": "Histórias de Stablecoin",
+            "ja": "試験",
+            "es": "Historias de Stablecoin",
+            "fr": "Histoires de Stablecoin",
+            "de": "Stablecoin-Geschichten",
+            "it": "Storie di Stablecoin",
+            "en": "Stablecoin Stories"
+        },
+        "Part 5 Chapter 5": {
+            "pt": "Exame",
+            "es": "Examen",
+            "fr": "Examen",
+            "de": "Prüfung",
+            "it": "Esame",
+            "en": "Exam"
+        },
+        "Part 6": {
+            "pt": "Observações Finais",
+            "ja": "終わりに",
+            "es": "Comentarios de Cierre",
+            "vi": "Lời Kết",
+            "fr": "Remarques de Clôture",
+            "de": "Schlussbemerkungen",
+            "it": "Osservazioni Finali",
+            "en": "Closing Remarks"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Observações Finais",
+            "ja": "終わりに",
+            "es": "Comentarios de Cierre",
+            "vi": "Lời Kết",
+            "fr": "Remarques de Clôture",
+            "de": "Schlussbemerkungen",
+            "it": "Osservazioni Finali",
+            "en": "Closing Remarks"
+        }
+    }
+}

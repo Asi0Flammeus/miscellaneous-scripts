@@ -1,0 +1,184 @@
+{
+    "rgb": {
+        "Part 1": {
+            "pt": "Introdução ao curso de RGB",
+            "ja": "RGBコースへの導入",
+            "es": "Introducción al curso de RGB",
+            "vi": "Giới thiệu về khóa học RGB",
+            "fr": "Introduction au cours RGB",
+            "de": "Einführung in den RGB-Kurs",
+            "it": "Introduzione al corso RGB",
+            "en": "Introduction to the RGB course"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Apresentação do curso",
+            "ja": "コースの紹介",
+            "es": "Presentación del curso",
+            "vi": "Giới thiệu khóa học",
+            "fr": "Présentation du cours",
+            "de": "Kurspräsentation",
+            "it": "Presentazione del corso",
+            "en": "Course presentation"
+        },
+        "Part 2": {
+            "pt": "RGB na teoria",
+            "ja": "RGBの理論",
+            "es": "RGB en teoría",
+            "vi": "RGB về mặt lý thuyết",
+            "fr": "RGB en théorie",
+            "de": "RGB in der Theorie",
+            "it": "RGB in teoria",
+            "en": "RGB in theory"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Compreendendo o RGB",
+            "ja": "RGBの理解",
+            "es": "Comprendiendo RGB",
+            "vi": "Hiểu về RGB",
+            "fr": "Comprendre RGB",
+            "de": "RGB verstehen",
+            "it": "Comprendere RGB",
+            "en": "Understanding RGB "
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Validação do lado do cliente",
+            "ja": "クライアントサイド検証",
+            "es": "Validación del lado del cliente",
+            "vi": "Xác thực phía client",
+            "fr": "Validation côté client",
+            "de": "Validierung auf der Client-Seite",
+            "it": "Convalida lato client",
+            "en": "Client side validation "
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Explicação do estado do RGB",
+            "ja": "RGBの状態説明",
+            "es": "Explicación del estado de RGB",
+            "vi": "Giải thích Trạng thái RGB",
+            "fr": "Explication de l'état RGB",
+            "de": "RGB-Status erklären",
+            "it": "Spiegazione dello stato di RGB",
+            "en": "RGB Explain State"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Lógica de negócios do RGB",
+            "ja": "RGBのビジネスロジック",
+            "es": "Lógica empresarial de RGB",
+            "vi": "Logic Kinh doanh RGB",
+            "fr": "Logique métier RGB",
+            "de": "RGB-Geschäftslogik",
+            "it": "Logica aziendale di RGB",
+            "en": "RGB Business logic "
+        },
+        "Part 3": {
+            "pt": "Programando no RGB",
+            "ja": "RGBでのプログラミング",
+            "es": "Programación en RGB",
+            "vi": "Lập trình với RGB",
+            "fr": "Programmation sur RGB",
+            "de": "Programmierung auf RGB",
+            "it": "Programmazione su RGB",
+            "en": "Programming on RGB "
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Noções básicas de programação RGB",
+            "ja": "RGBプログラミングの基礎",
+            "es": "Fundamentos de la programación RGB",
+            "vi": "Cơ bản về lập trình RGB",
+            "fr": "Bases de la programmation RGB",
+            "de": "Grundlagen der RGB-Programmierung",
+            "it": "Fondamenti della programmazione RGB",
+            "en": "Basic of RGB programming"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Programação RGB Parte 2",
+            "ja": "RGBプログラミング パート2",
+            "es": "Programación RGB Parte 2",
+            "vi": "Phần 2 về lập trình RGB",
+            "fr": "Programmation RGB Partie 2",
+            "de": "RGB-Programmierung Teil 2",
+            "it": "Programmazione RGB - Parte 2",
+            "en": "RGB programming Part2 "
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Escrevendo contratos inteligentes",
+            "ja": "スマートコントラクトの記述",
+            "es": "Escribir contratos inteligentes",
+            "vi": "Viết hợp đồng thông minh",
+            "fr": "Rédaction de contrats intelligents",
+            "de": "Schreiben von Smart Contracts",
+            "it": "Scrittura di smart contract",
+            "en": "Writing smart contract"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "Tópicos avançados do RGB e discussões futuras",
+            "ja": "RGBの上級トピックと将来の議論",
+            "es": "Temas avanzados de RGB y discusión futura",
+            "vi": "Chủ đề nâng cao về RGB và thảo luận về tương lai",
+            "fr": "Sujets avancés RGB et discussions futures",
+            "de": "Fortgeschrittene RGB-Themen und zukünftige Diskussionen",
+            "it": "Argomenti avanzati su RGB e discussioni future",
+            "en": "Advance RGB topic and future discussion"
+        },
+        "Part 4": {
+            "pt": "Construindo em cima do RGB",
+            "ja": "RGBに基づく構築",
+            "es": "Construyendo sobre RGB",
+            "vi": "Xây dựng trên RGB",
+            "fr": "Construire sur RGB",
+            "de": "Aufbau auf RGB",
+            "it": "Costruire su RGB",
+            "en": "Building on RGB "
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Bitmask",
+            "ja": "ビットマスク",
+            "es": "Bitmask",
+            "vi": "Bitmask",
+            "fr": "Bitmask",
+            "de": "Bitmaske",
+            "it": "Bitmask",
+            "en": "Bitmask\t"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Nó RGB parte 1 ",
+            "ja": "RGBノード パート1",
+            "es": "Nodo RGB parte 1 ",
+            "vi": "Phần 1 về Node RGB",
+            "fr": "Noeud RGB partie 1 ",
+            "de": "RGB-Knoten Teil 1",
+            "it": "Nodo RGB parte 1",
+            "en": "RGB Node part 1 "
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Nó RGB parte 2",
+            "ja": "RGBノード パート2",
+            "es": "Nodo RGB parte 2",
+            "vi": "Phần 2 về Node RGB",
+            "fr": "Noeud RGB partie 2",
+            "de": "RGB-Knoten Teil 2",
+            "it": "Nodo RGB parte 2",
+            "en": "RGB Node part 2"
+        },
+        "Part 5": {
+            "pt": "Conclusão ",
+            "ja": "結論",
+            "es": "Conclusión ",
+            "vi": "Kết luận",
+            "fr": "Conclusion ",
+            "de": "Fazit",
+            "it": "Conclusioni",
+            "en": "Conclusion "
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Palavra final",
+            "ja": "締めの言葉",
+            "es": "Palabra de cierre",
+            "vi": "Lời kết",
+            "fr": "Mot de clôture",
+            "de": "Abschließende Worte",
+            "it": "Parola finale",
+            "en": "closing Word"
+        }
+    }
+}

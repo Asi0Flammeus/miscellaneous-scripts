@@ -1,0 +1,214 @@
+{
+    "btc102": {
+        "Part 1": {
+            "pt": "Introdução e pré-requisitos para entender o Bitcoin",
+            "ja": "ビットコインを理解するための導入と前提条件",
+            "es": "Introducción y requisitos previos para entender Bitcoin",
+            "vi": "Giới thiệu và điều kiện tiên quyết để hiểu Bitcoin",
+            "fr": "Introduction et prérequis pour comprendre Bitcoin",
+            "de": "Einführung und Voraussetzungen zum Verständnis von Bitcoin",
+            "it": "Introduzione e prerequisiti per comprendere Bitcoin",
+            "en": "Introduction and prerequisites to understand Bitcoin"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução ao curso BTC102",
+            "ja": "BTC102コースの紹介",
+            "es": "Introducción al curso BTC102",
+            "vi": "Giới thiệu về khóa học BTC102",
+            "fr": "Introduction à la formation BTC102",
+            "de": "Einführung in den BTC102-Kurs",
+            "it": "Introduzione al corso BTC102",
+            "en": "Introduction to BTC102 course"
+        },
+        "Part 1 Chapter 2": {
+            "pt": "Golpes e fraudes financeiras",
+            "ja": "詐欺と金融詐欺",
+            "es": "Estafas y fraudes financieros",
+            "vi": "Lừa đảo và Gian lận Tài chính",
+            "fr": "Arnaques et fraudes financières",
+            "de": "Betrug und finanzielle Betrügereien",
+            "it": "Truffe e frodi finanziarie",
+            "en": "Scams and Financial Frauds"
+        },
+        "Part 1 Chapter 3": {
+            "pt": "Segurança online",
+            "ja": "オンラインセキュリティ",
+            "es": "Seguridad en línea",
+            "vi": "An ninh trực tuyến",
+            "fr": "Sécurité en ligne",
+            "de": "Online-Sicherheit",
+            "it": "Sicurezza online",
+            "en": "Online Security"
+        },
+        "Part 1 Chapter 4": {
+            "pt": "Dicas para iniciantes",
+            "ja": "初心者向けのヒント",
+            "es": "Consejos para principiantes",
+            "vi": "Mẹo cho Người Mới Bắt Đầu",
+            "fr": "Conseils pour novice",
+            "de": "Tipps für Anfänger",
+            "it": "Consigli per i principianti",
+            "en": "Tips for Beginners"
+        },
+        "Part 2": {
+            "pt": "Entendendo o que estamos nos envolvendo",
+            "ja": "理解すること",
+            "es": "Comprender en qué nos estamos metiendo",
+            "vi": "Hiểu biết về những gì chúng ta đang tham gia",
+            "fr": "Comprendre dans quoi on se lance",
+            "de": "Verständnis dessen, worauf wir uns einlassen",
+            "it": "Capire in cosa ci si sta imbarcando",
+            "en": "Understanding what we're getting into"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Bitcoin em 5 minutos",
+            "ja": "5分でわかるBitcoin",
+            "es": "Bitcoin en 5 minutos",
+            "vi": "Bitcoin trong 5 phút",
+            "fr": "Bitcoin en 5 minutes",
+            "de": "Bitcoin in 5 Minuten",
+            "it": "Bitcoin in 5 minuti",
+            "en": "Bitcoin in 5 minutes"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Por que o Bitcoin é importante?",
+            "ja": "Bitcoinの重要性はなぜですか？",
+            "es": "¿Por qué Bitcoin es importante?",
+            "vi": "Tại sao Bitcoin lại quan trọng?",
+            "fr": "Pourquoi Bitcoin est important ?",
+            "de": "Warum ist Bitcoin wichtig?",
+            "it": "Perché Bitcoin è importante?",
+            "en": "Why is Bitcoin important?"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Compreendendo a indústria do Bitcoin",
+            "ja": "ビットコイン業界の理解",
+            "es": "Comprender la industria de Bitcoin",
+            "vi": "Hiểu Biết về Ngành Bitcoin",
+            "fr": "Comprendre l'industrie du Bitcoin",
+            "de": "Die Bitcoin-Industrie verstehen",
+            "it": "Understanding the Bitcoin Industry",
+            "en": "Understanding the Bitcoin Industry"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "A arquitetura em camadas do Bitcoin",
+            "ja": "Bitcoinの階層化アーキテクチャ",
+            "es": "La arquitectura en capas de Bitcoin",
+            "vi": "Kiến trúc Tầng của Bitcoin",
+            "fr": "L'architecture en couches de Bitcoin",
+            "de": "Die Schichtenarchitektur von Bitcoin",
+            "it": "L'architettura a strati di Bitcoin",
+            "en": "Bitcoin's Layered Architecture"
+        },
+        "Part 3": {
+            "pt": "Implementando seu plano",
+            "ja": "プランの設定",
+            "es": "Estableciendo tu plan",
+            "vi": "Thiết lập kế hoạch của bạn",
+            "fr": "Mise en place de votre plan",
+            "de": "Umsetzung Ihres Plans",
+            "it": "Implementazione del tuo piano",
+            "en": "Setting up your plan"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Escolhendo seu perfil",
+            "ja": "プロフィールの選択",
+            "es": "Elige tu perfil",
+            "vi": "Chọn hồ sơ của bạn",
+            "fr": "Choisir son profil",
+            "de": "Wählen Sie Ihr Profil",
+            "it": "Scegliere il proprio profilo",
+            "en": "Choosing your profile"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "O hodler",
+            "ja": "ホドラー",
+            "es": "El hodler",
+            "vi": "Người Hodler",
+            "fr": "Le hodler",
+            "de": "Der Hodler",
+            "it": "L'Hodler",
+            "en": "The Hodler"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "O stacker",
+            "ja": "スタッカー",
+            "es": "El stacker",
+            "vi": "Người tích lũy",
+            "fr": "Le stacker",
+            "de": "Der Stacker",
+            "it": "Il stacker",
+            "en": "The stacker"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "O usuário",
+            "ja": "ユーザー",
+            "es": "El usuario",
+            "vi": "Người Dùng",
+            "fr": "L'utilisateur",
+            "de": "Der Benutzer",
+            "it": "L'utente",
+            "en": "The User"
+        },
+        "Part 3 Chapter 5": {
+            "pt": "O paranóico",
+            "ja": "パラノイドなビットコイナー",
+            "es": "El paranoico",
+            "vi": "Người Bitcoin Hoài Nghi",
+            "fr": "Le parano",
+            "de": "Der Paranoide",
+            "it": "Il paranoico",
+            "en": "The Paranoid Bitcoiner"
+        },
+        "Part 4": {
+            "pt": "O futuro com o Bitcoin",
+            "ja": "ビットコインとの未来",
+            "es": "El futuro con Bitcoin",
+            "vi": "Tương lai với Bitcoin",
+            "fr": "Le futur avec Bitcoin",
+            "de": "Die Zukunft mit Bitcoin",
+            "it": "Il futuro con Bitcoin",
+            "en": "The future with Bitcoin"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Criando um plano de herança",
+            "ja": "相続計画の作成",
+            "es": "Creación de un plan de herencia",
+            "vi": "Tạo kế hoạch thừa kế",
+            "fr": "Création d'un plan d'héritage",
+            "de": "Erstellung eines Nachlassplans",
+            "it": "Creazione di un piano di eredità",
+            "en": "Creating an inheritance plan"
+        },
+        "Part 5": {
+            "pt": "Agradecimentos e continue a cavar a toca do coelho",
+            "ja": "謝辞とウサギの穴を掘り続ける",
+            "es": "Agradecimientos y sigue profundizando en la madriguera del conejo",
+            "vi": "Lời cảm ơn và tiếp tục khám phá",
+            "fr": "Remerciements et continuez à creuser le terrier du lapin",
+            "de": "Dankeschön und weiterhin den Kaninchenbau erkunden",
+            "it": "Ringraziamenti e continuate a scavare la tana del coniglio",
+            "en": "Acknowledgments and keep digging the rabbit hole"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Parabéns! VOCÊ ESTÁ NO TOP 0,1%",
+            "ja": "おめでとうございます！あなたはトップ0.1%にいます！",
+            "es": "¡Felicidades! ESTÁS EN EL TOP 0,1%",
+            "vi": "Xin chúc mừng! BẠN LÀ TOP 0.1%",
+            "fr": "Féliciation ! VOUS ÊTES DANS LE TOP 0,1%",
+            "de": "Herzlichen Glückwunsch! SIE GEHÖREN ZU DEN TOP 0,1%",
+            "it": "Congratulazioni! FAI PARTE DEL TOP 0,1%",
+            "en": "Congratulations! YOU ARE IN THE TOP 0.1%"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Apoie a formação!",
+            "ja": "コースをサポートする！",
+            "es": "¡Apoya la formación!",
+            "vi": "Theo dõi",
+            "fr": "Soutiens la formation !",
+            "de": "Unterstützen Sie die Schulung!",
+            "it": "Sostieni la formazione!",
+            "en": "Follow up"
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "ln201": {
+        "Part 1": {
+            "pt": "Os fundamentais",
+            "ja": "基礎",
+            "es": "Los fundamentales",
+            "vi": "Cơ bản",
+            "fr": "Les fondamentaux",
+            "de": "Die Grundlagen",
+            "it": "I fondamentali",
+            "en": "The Fundamentals"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Compreender a Lightning Network",
+            "ja": "ライトニング・ネットワークを理解する",
+            "es": "Comprender el Lightning Network",
+            "vi": "Hiểu về Lightning Network",
+            "fr": "Comprendre le Lightning Network",
+            "de": "Das Lightning Network verstehen",
+            "it": "Comprendere Lightning Network",
+            "en": "Understanding the Lightning Network"
+        },
+        "Part 1 Chapter 2": {
+            "pt": "Bitcoin, endereços, UTXO e transações",
+            "ja": "ビットコイン、アドレス、UTXO、トランザクション",
+            "es": "Bitcoin, direcciones, UTXO y transacciones",
+            "vi": "Bitcoin, địa chỉ, UTXO và giao dịch",
+            "fr": "Bitcoin, adresses, UTXO et transactions",
+            "de": "Bitcoin, Adressen, UTXO und Transaktionen",
+            "it": "Bitcoin, indirizzi, UTXO e transazioni",
+            "en": "Bitcoin, addresses, UTXO and transactions"
+        },
+        "Part 2": {
+            "pt": "Abertura e fechamento dos canais",
+            "ja": "チャネルの開設と閉鎖",
+            "es": "Apertura y cierre de canales",
+            "vi": "Mở và đóng kênh",
+            "fr": "Ouverture et fermeture des canaux",
+            "de": "Öffnung und Schließung der Kanäle",
+            "it": "Apertura e chiusura dei canali",
+            "en": "Opening and closing of channels"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Abertura de canal",
+            "ja": "チャネルの開設",
+            "es": "Apertura de canal",
+            "vi": "Mở Kênh",
+            "fr": "Ouverture de canal",
+            "de": "Kanaleröffnung",
+            "it": "Apertura del canale",
+            "en": "Channel Opening"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Transação Lightning e de compromisso",
+            "ja": "ライトニング・トランザクションとコミットメント・トランザクション",
+            "es": "Transacción Lightning y de compromiso",
+            "vi": "Giao Dịch Lightning & Giao Dịch Cam Kết",
+            "fr": "Transaction Lightning & d’engagement",
+            "de": "Lightning-Transaktionen und Engagement-Transaktionen",
+            "it": "Transazione Lightning e di impegno",
+            "en": "Lightning Transaction & Commitment Transaction"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Transações de compromisso",
+            "ja": "コミットメント・トランザクション",
+            "es": "Transacciones de compromiso",
+            "vi": "Giao Dịch Cam Kết",
+            "fr": "Transactions d'engagement",
+            "de": "Engagement-Transaktionen",
+            "it": "Transazioni di impegno",
+            "en": "Commitment Transactions"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Fechamento de canal",
+            "ja": "チャネルの閉鎖",
+            "es": "Cierre del canal",
+            "vi": "Đóng Kênh",
+            "fr": "Fermeture de canal",
+            "de": "Kanalschließung",
+            "it": "Chiusura del canale",
+            "en": "Channel Closure"
+        },
+        "Part 3": {
+            "pt": "Uma rede de liquidez",
+            "ja": "流動性ネットワーク",
+            "es": "Una red de liquidez",
+            "vi": "Một mạng lưới thanh khoản",
+            "fr": "Un réseau de liquidité",
+            "de": "Ein Liquiditätsnetzwerk",
+            "it": "Una rete di liquidità",
+            "en": "A liquidity network"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Lightning Network",
+            "ja": "ライトニング・ネットワーク",
+            "es": "Lightning Network",
+            "vi": "Lightning Network",
+            "fr": "Lightning le Réseau",
+            "de": "Lightning Network",
+            "it": "Lightning Network",
+            "en": "Lightning Network"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "HTLC - Contrato de tempo bloqueado e hash",
+            "ja": "HTLC - ハッシュタイム・ロック契約",
+            "es": "HTLC - Contrato de tiempo bloqueado y hash",
+            "vi": "HTLC - Hợp Đồng Thời Gian Khóa Băm",
+            "fr": "HTLC – Hashed Time Locked Contract",
+            "de": "HTLC - Hashed Time Locked Contract",
+            "it": "HTLC - Contratto Hashed Time Locked",
+            "en": "HTLC - Hashed Time Locked Contract"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Encontrando seu caminho",
+            "ja": "自分の道を見つける",
+            "es": "Encontrar tu camino",
+            "vi": "Tìm đường đi",
+            "fr": "Trouver sa voie",
+            "de": "Finding Your Way",
+            "it": "Trovare la propria strada",
+            "en": "Finding your way"
+        },
+        "Part 4": {
+            "pt": "Ferramentas da Lightning Network",
+            "ja": "ライトニング・ネットワークのツール",
+            "es": "Herramientas de la Lightning Network",
+            "vi": "Công Cụ của Lightning Network",
+            "fr": "Outils du lightning Network",
+            "de": "Tools des Lightning Networks",
+            "it": "Strumenti di Lightning Network",
+            "en": "Tools of the Lightning Network"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Fatura, LNURL, Keysend",
+            "ja": "インボイス、LNURL、Keysend",
+            "es": "Factura, LNURL, Keysend",
+            "vi": "Hóa Đơn, LNURL, Keysend",
+            "fr": "Invoice, LNURL, Keysend",
+            "de": "Rechnung, LNURL, Keysend",
+            "it": "Fattura, LNURL, Keysend",
+            "en": "Invoice, LNURL, Keysend"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Gerenciando sua liquidez",
+            "ja": "流動性の管理",
+            "es": "Gestionar la liquidez",
+            "vi": "Quản lý Tính thanh khoản",
+            "fr": "Gérer sa liquidité",
+            "de": "Liquiditätsmanagement",
+            "it": "Gestione della liquidità",
+            "en": "Managing Liquidity"
+        },
+        "Part 5": {
+            "pt": "Vá além",
+            "ja": "さらに進む",
+            "es": "Vamos mas alla",
+            "vi": "Đi sâu hơn",
+            "fr": "Allez plus loin",
+            "de": "Geh weiter",
+            "it": "Vai oltre",
+            "en": "Go further"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Resumo da formação",
+            "ja": "コースのまとめ",
+            "es": "Resumen de la formación",
+            "vi": "Tóm tắt khóa học",
+            "fr": "Résumé de la formation",
+            "de": "Zusammenfassung der Schulung",
+            "it": "Riassunto della formazione",
+            "en": "Summary of the course"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Entrevista com Fanis",
+            "ja": "ファニスへのインタビュー",
+            "es": "Entrevista con Fanis",
+            "vi": "Phỏng vấn Fanis",
+            "fr": "Interview de Fanis",
+            "de": "Interview mit Fanis",
+            "it": "Intervista a Fanis",
+            "en": "Fanis' Interview"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Agradecimentos e continue a cavar a toca do coelho",
+            "ja": "謝辞とラビットホールの探求を続けよう",
+            "es": "Agradecimientos y sigue excavando la madriguera del conejo",
+            "vi": "Lời cảm ơn và tiếp tục khám phá hố thỏ",
+            "fr": "Remerciements et continuez à creuser le terrier du lapin",
+            "de": "Dankeschön und weiterhin den Kaninchenbau erkunden",
+            "it": "Ringraziamenti e continuate a scavare la tana del coniglio",
+            "en": "Acknowledgments and keep digging the rabbit hole"
+        }
+    }
+}

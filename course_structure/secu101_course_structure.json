@@ -1,0 +1,227 @@
+{
+    "secu101": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "導入",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução ao curso",
+            "ja": "コースの紹介",
+            "es": "Introducción al curso",
+            "vi": "Giới thiệu khóa học",
+            "fr": "Introduction du cours",
+            "de": "Kursvorstellung",
+            "it": "Introduzione al corso",
+            "en": "Course Introduction"
+        },
+        "Part 2": {
+            "pt": "Tudo sobre navegação online",
+            "ja": "オンラインブラウジングについて知っておくべきすべて",
+            "es": "Todo sobre la navegación en línea",
+            "vi": "Tất cả những gì bạn cần biết về duyệt web trực tuyến",
+            "fr": "Tout savoir sur la navigation en ligne",
+            "de": "Alles über das Surfen im Internet",
+            "it": "Tutto quello che c'è da sapere sulla navigazione online",
+            "en": "Everything you need to know about online browsing"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Navegação online",
+            "ja": "オンラインブラウジング",
+            "es": "Navegación en línea",
+            "vi": "Duyệt web trực tuyến",
+            "fr": "Navigation en ligne",
+            "de": "Online-Surfen",
+            "it": "Navigazione online",
+            "en": "Online browsing"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "VPN e conexão com a internet",
+            "ja": "VPNとインターネット接続",
+            "es": "VPN y conexión a Internet",
+            "vi": "VPN và kết nối internet",
+            "fr": "VPN et connexion internet",
+            "de": "VPN und Internetverbindung",
+            "it": "VPN e connessione Internet",
+            "en": "VPN and internet connection"
+        },
+        "Part 3": {
+            "pt": "Boas práticas de uso do computador",
+            "ja": "コンピュータ使用のベストプラクティス",
+            "es": "Buenas prácticas para el uso de la computadora",
+            "vi": "Những thói quen tốt cần có khi sử dụng máy tính",
+            "fr": "Les bonnes pratiques d'utilisation de l'ordinateur",
+            "de": "Gute Computerpraktiken",
+            "it": "Buone pratiche per l'uso del computer",
+            "en": "Best Practices for Computer Use"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Uso do computador",
+            "ja": "コンピュータの使用",
+            "es": "Uso de la computadora",
+            "vi": "Sử dụng máy tính",
+            "fr": "Utilisation de l’ordinateur",
+            "de": "Computerbenutzung",
+            "it": "Utilizzo del computer",
+            "en": "Computer Use"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Hack e gerenciamento de backup: protegendo seus dados",
+            "ja": "ハッキング＆バックアップ管理：あなたのデータを守る",
+            "es": "Hack y gestión de copias de seguridad: proteger sus datos",
+            "vi": "Quản lý hacking & sao lưu: Bảo vệ dữ liệu của Bạn",
+            "fr": "Hack & gestion de back-up : protéger ses données",
+            "de": "Hack & Backup-Management: Schutz Ihrer Daten",
+            "it": "Hack & gestione del backup: proteggere i propri dati",
+            "en": "Hacking & Backup Management: Protecting Your Data"
+        },
+        "Part 4": {
+            "pt": "Implementação das soluções.",
+            "ja": "解決策の実装。",
+            "es": "Implementación de soluciones.",
+            "vi": "Triển khai giải pháp.",
+            "fr": "Mise en place des solutions.",
+            "de": "Implementierung von Lösungen.",
+            "it": "Implementazione delle soluzioni.",
+            "en": "Implementation of solutions."
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Gerenciamento de caixas de e-mail",
+            "ja": "メールアカウントの管理",
+            "es": "Gestión de buzones de correo",
+            "vi": "Quản lý tài khoản email",
+            "fr": "La gestion des boites mails",
+            "de": "Das Management von E-Mail-Postfächern",
+            "it": "Gestione delle caselle di posta",
+            "en": "Managing email accounts"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Gerenciador de senhas",
+            "ja": "パスワードマネージャー",
+            "es": "Gestor de contraseñas",
+            "vi": "Trình quản lý mật khẩu",
+            "fr": "Gestionnaire de mots de passe",
+            "de": "Passwort-Manager",
+            "it": "Gestore di password",
+            "en": "Password Manager"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Autenticação de 2 fatores",
+            "ja": "二要素認証",
+            "es": "Los 2 factores de autenticación",
+            "vi": "Xác thực hai yếu tố",
+            "fr": "Les 2 facteurs d’authentification",
+            "de": "Die 2-Faktor-Authentifizierung",
+            "it": "I 2 fattori di autenticazione",
+            "en": "Two-Factor Authentication"
+        },
+        "Part 5": {
+            "pt": "Seção Prática",
+            "ja": "実践セクション",
+            "es": "Sección Práctica",
+            "vi": "Đi sâu hơn",
+            "fr": "Section Pratique ",
+            "de": "Praktischer Abschnitt",
+            "it": "Sezione Pratica",
+            "en": "Practical Section "
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Configurando uma Caixa de Correio",
+            "ja": "メールボックスの設定",
+            "es": "Configuración de un Buzón de Correo",
+            "vi": "Làm thế nào để làm việc trong ngành an ninh mạng",
+            "fr": "Mise en place d'un Boite Mail ",
+            "de": "Einrichtung eines Postfachs",
+            "it": "Configurazione di una Casella di Posta",
+            "en": "Setting up a Mailbox "
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Segurança em 2FA",
+            "ja": "2FAでのセキュリティ強化",
+            "es": "Seguridad en 2FA",
+            "vi": "Phỏng vấn với Renaud",
+            "fr": "Sécurisation en 2FA",
+            "de": "Absicherung mit 2FA",
+            "it": "Sicurezza con 2FA",
+            "en": "Securing in 2FA"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Criando um gerenciador de senhas",
+            "ja": "パスワードマネージャーの作成",
+            "es": "Creación de un gestor de contraseñas",
+            "vi": "Lời cảm ơn và tiếp tục khám phá",
+            "fr": "Création d'un gestionaire de mot de passe",
+            "de": "Erstellung eines Passwort-Managers",
+            "it": "Creazione di un gestore di password",
+            "en": "Creating a password manager"
+        },
+        "Part 5 Chapter 4": {
+            "pt": "Protegendo suas contas",
+            "ja": "アカウントのセキュリティ強化",
+            "es": "Asegurando tus cuentas",
+            "fr": "Sécurisation de vos comptes",
+            "de": "Absicherung Ihrer Konten",
+            "it": "Sicurezza dei tuoi account",
+            "en": "Securing your accounts"
+        },
+        "Part 5 Chapter 5": {
+            "pt": "Configuração de Backup",
+            "ja": "バックアップの設定",
+            "es": "Configuración de copia de seguridad",
+            "fr": "Mise en place de Back-up",
+            "de": "Einrichtung eines Back-ups",
+            "it": "Configurazione del backup",
+            "en": "Back-up set-up"
+        },
+        "Part 5 Chapter 6": {
+            "pt": "Mudança de navegador & VPN",
+            "ja": "ブラウザとVPNの変更",
+            "es": "Cambio de navegador y VPN",
+            "fr": "Changement de navigateur & VPN",
+            "de": "Browserwechsel & VPN",
+            "it": "Cambio di browser e VPN",
+            "en": "Change of browser & VPN"
+        },
+        "Part 6": {
+            "pt": "Vá além",
+            "ja": "より深く掘り下げる",
+            "es": "Ve más allá",
+            "fr": "Allez plus loins",
+            "de": "Gehen Sie weiter",
+            "it": "Andare oltre",
+            "en": "Go further"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Como trabalhar nesta indústria de cibersegurança",
+            "ja": "サイバーセキュリティ業界での働き方",
+            "es": "Cómo trabajar en esta industria de ciberseguridad",
+            "fr": "Comment travailler dans cette industrie de la cybersécurité",
+            "de": "Wie man in dieser Cybersicherheitsbranche arbeitet",
+            "it": "Come lavorare in questa industria della sicurezza informatica",
+            "en": "How to work in the cybersecurity industry"
+        },
+        "Part 6 Chapter 2": {
+            "pt": "Entrevista com Renaud",
+            "ja": "レノーとのインタビュー",
+            "es": "Entrevista a Renaud",
+            "fr": "Interview de Renaud",
+            "de": "Interview mit Renaud",
+            "it": "Intervista a Renaud",
+            "en": "Interview with Renaud"
+        },
+        "Part 6 Chapter 3": {
+            "pt": "Agradecimentos e continue a explorar a toca do coelho",
+            "ja": "謝辞とさらに深く掘り下げる",
+            "es": "Agradecimientos y sigue profundizando en la madriguera del conejo",
+            "fr": "Remerciements et continuez à creuser le terrier du lapin",
+            "de": "Danksagungen und graben Sie weiter im Kaninchenbau",
+            "it": "Ringraziamenti e continua a scavare la tana del coniglio",
+            "en": "Acknowledgments and keep digging the rabbit hole"
+        }
+    }
+}

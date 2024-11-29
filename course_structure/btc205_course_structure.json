@@ -1,0 +1,49 @@
+{
+    "btc205": {
+        "Part 1": {
+            "fr": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "fr": "Explication & type de KYC"
+        },
+        "Part 1 Chapter 2": {
+            "fr": "Comparatif des solutions d’achat-vente en pair à pair"
+        },
+        "Part 1 Chapter 3": {
+            "fr": "Conclusion sur les solutions P2P"
+        },
+        "Part 2": {
+            "fr": "Les Tutoriels sur les solutions d'achat/vente en p2p"
+        },
+        "Part 2 Chapter 1": {
+            "fr": "Robosats"
+        },
+        "Part 2 Chapter 2": {
+            "fr": "BISQ: solution d'achat en peet à peer"
+        },
+        "Part 2 Chapter 3": {
+            "fr": "LNP2PBOT"
+        },
+        "Part 2 Chapter 4": {
+            "fr": "Peach Bitcoin"
+        },
+        "Part 2 Chapter 5": {
+            "fr": "Hold Hodl"
+        },
+        "Part 2 Chapter 6": {
+            "fr": "Bonus: Side Shift.AI"
+        },
+        "Part 3": {
+            "fr": "Pour aller plus loin"
+        },
+        "Part 3 Chapter 1": {
+            "fr": "Interview de Steph de Peach Bitcoin"
+        },
+        "Part 3 Chapter 2": {
+            "fr": "Interview de Pierre"
+        },
+        "Part 3 Chapter 3": {
+            "fr": "Article bonus sur la vie privée"
+        }
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "ln402": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "導入",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Currículo do curso e introdução",
+            "ja": "コースカリキュラム＆導入",
+            "es": "Plan de estudios e introducción del curso",
+            "vi": "Chương trình học & giới thiệu",
+            "fr": "Programme du cours et introduction",
+            "de": "Kursplan und Einführung",
+            "it": "Curriculum del corso e introduzione",
+            "en": "Cours curriculum & introduction "
+        },
+        "Part 2": {
+            "pt": "Aprenda a programar com o livro Rust",
+            "ja": "Rust bookでコードを学ぶ",
+            "es": "Aprende a programar con el libro de Rust",
+            "vi": "Học cách lập trình với sách Rust",
+            "fr": "Apprenez à coder avec le livre Rust",
+            "de": "Lernen Sie mit dem Rust-Buch zu programmieren",
+            "it": "Impara a programmare con il libro Rust",
+            "en": "Learn how to code with the rust book"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Introdução ao Rust (1/7)",
+            "ja": "Rustへの導入 (1/7)",
+            "es": "Introducción a Rust (1/7)",
+            "vi": "Giới thiệu về Rust (1/7)",
+            "fr": "Introduction à Rust (1/7)",
+            "de": "Einführung in Rust (1/7)",
+            "it": "Introduzione a Rust (1/7)",
+            "en": "Introduction to Rust (1/7)"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Introdução ao Rust (2/7)",
+            "ja": "Rustへの導入 (2/7)",
+            "es": "Introducción a Rust (2/7)",
+            "vi": "Giới thiệu về Rust (2/7)",
+            "fr": "Introduction à Rust (2/7)",
+            "de": "Einführung in Rust (2/7)",
+            "it": "Introduzione a Rust (2/7)",
+            "en": "Introduction to Rust (2/7)"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Introdução ao Rust (3/7)",
+            "ja": "Rustへの導入 (3/7)",
+            "es": "Introducción a Rust (3/7)",
+            "vi": "Giới thiệu về Rust (3/7)",
+            "fr": "Introduction à Rust (3/7)",
+            "de": "Einführung in Rust (3/7)",
+            "it": "Introduzione a Rust (3/7)",
+            "en": "Introduction to Rust (3/7)"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Introdução ao Rust (4/7)",
+            "ja": "Rustへの導入 (4/7)",
+            "es": "Introducción a Rust (4/7)",
+            "vi": "Giới thiệu về Rust (4/7)",
+            "fr": "Introduction à Rust (4/7)",
+            "de": "Einführung in Rust (4/7)",
+            "it": "Introduzione a Rust (4/7)",
+            "en": "Introduction to Rust (4/7)"
+        },
+        "Part 2 Chapter 5": {
+            "pt": "Introdução ao Rust (5/7)",
+            "ja": "Rustへの導入 (5/7)",
+            "es": "Introducción a Rust (5/7)",
+            "vi": "Giới thiệu về Rust (5/7)",
+            "fr": "Introduction à Rust (5/7)",
+            "de": "Einführung in Rust (5/7)",
+            "it": "Introduzione a Rust (5/7)",
+            "en": "Introduction to Rust (5/7)"
+        },
+        "Part 2 Chapter 6": {
+            "pt": "Introdução ao Rust (6/7)",
+            "ja": "Rustへの導入 (6/7)",
+            "es": "Introducción a Rust (6/7)",
+            "vi": "Giới thiệu về Rust (6/7)",
+            "fr": "Introduction à Rust (6/7)",
+            "de": "Einführung in Rust (6/7)",
+            "it": "Introduzione a Rust (6/7)",
+            "en": "Introduction to Rust (6/7)"
+        },
+        "Part 2 Chapter 7": {
+            "pt": "Introdução ao Rust (7/7)",
+            "ja": "Rustへの導入 (7/7)",
+            "es": "Introducción a Rust (7/7)",
+            "vi": "Giới thiệu về Rust (7/7)",
+            "fr": "Introduction à Rust (7/7)",
+            "de": "Einführung in Rust (7/7)",
+            "it": "Introduzione a Rust (7/7)",
+            "en": "Introduction to Rust (7/7)"
+        },
+        "Part 3": {
+            "pt": "Rust & BTC",
+            "ja": "Rust & BTC",
+            "es": "Rust y BTC",
+            "vi": "Rust & BTC",
+            "fr": "Rust & BTC",
+            "de": "Rust & BTC",
+            "it": "Rust & BTC",
+            "en": "Rust & BTC "
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Por que Rust para Bitcoin",
+            "ja": "BitcoinにおけるRustの利点",
+            "es": "Por qué Rust para Bitcoin",
+            "vi": "Tại sao Rust cho Bitcoin",
+            "fr": "Pourquoi Rust pour Bitcoin",
+            "de": "Warum Rust für Bitcoin",
+            "it": "Perché Rust per Bitcoin",
+            "en": "Why rust per Bitcoin"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Modelo de erro",
+            "ja": "エラーモデル",
+            "es": "Modelo de errores",
+            "vi": "Mô hình lỗi",
+            "fr": "Modèle d'erreur",
+            "de": "Fehlermodell",
+            "it": "Modello di errore",
+            "en": "Error model"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Unniffit",
+            "ja": "Unniffit",
+            "es": "Unniffit",
+            "vi": "Unniffit",
+            "fr": "Unniffit",
+            "de": "Unniffit",
+            "it": "Unniffit",
+            "en": "Unniffit"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "Traits assíncronos",
+            "ja": "非同期トレイト",
+            "es": "Traits asíncronos",
+            "vi": "Đặc tính bất đồng bộ",
+            "fr": "Traits asynchrones",
+            "de": "Asynchrone Traits",
+            "it": "Async traits",
+            "en": "Async traits"
+        },
+        "Part 4": {
+            "pt": "Desenvolvendo LNP/BP com SDK",
+            "ja": "SDKを使用したLNP/BPの開発",
+            "es": "Desarrollo de LNP/BP con SDK",
+            "vi": "Phát triển LNP/BP với SDK",
+            "fr": "Développement LNP/BP avec SDK",
+            "de": "Entwicklung von LNP/BP mit SDK",
+            "it": "Sviluppo di LNP/BP con SDK",
+            "en": "Developping LNP/BP with SDK"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Nó LN no SDK",
+            "ja": "SDK上のLNノード",
+            "es": "Nodo LN en SDK",
+            "vi": "Node LN trên SDK",
+            "fr": "Noeud LN sur SDK",
+            "de": "LN-Knoten auf SDK",
+            "it": "Nodo LN su SDK",
+            "en": "LN node on SDK"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Breez sdk",
+            "ja": "Breez sdk",
+            "es": "Breez sdk",
+            "vi": "Breez sdk",
+            "fr": "Breez sdk",
+            "de": "Breez sdk",
+            "it": "Breez sdk",
+            "en": "Breez sdk"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Greenlight para lipa",
+            "ja": "lipaのためのGreenlight",
+            "es": "Greenlight para lipa",
+            "vi": "Greenlight cho lipa",
+            "fr": "Greenlight pour lipa",
+            "de": "Greenlight für lipa",
+            "it": "Greenlight per lipa",
+            "en": "Greenlight for lipa"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "Breez sdk para lipa",
+            "ja": "lipaのためのBreez sdk",
+            "es": "Breez sdk para lipa",
+            "vi": "Breez sdk cho lipa",
+            "fr": "Breez sdk pour lipa",
+            "de": "Breez sdk für lipa",
+            "it": "Breez sdk per lipa",
+            "en": "Breez sdk for lipa"
+        },
+        "Part 5": {
+            "pt": "Conclusão",
+            "ja": "結論",
+            "es": "Conclusión",
+            "vi": "Kết luận",
+            "fr": "Conclusion",
+            "de": "Fazit",
+            "it": "Conclusioni",
+            "en": "Conclusion"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Palavra final",
+            "ja": "締めの言葉",
+            "es": "Palabra de cierre",
+            "vi": "Lời kết",
+            "fr": "Mot de la fin",
+            "de": "Schlusswort",
+            "it": "Parola finale",
+            "en": "Closing word"
+        }
+    }
+}

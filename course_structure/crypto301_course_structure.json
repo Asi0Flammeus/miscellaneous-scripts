@@ -1,0 +1,274 @@
+{
+    "crypto301": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "はじめに",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução à Criptografia",
+            "ja": "暗号学入門",
+            "es": "Introducción a la Criptografía",
+            "vi": "Giới thiệu về Mật mã học",
+            "fr": "Introduction à la cryptographie",
+            "de": "Einführung in die Kryptographie",
+            "it": "Introduzione alla crittografia",
+            "en": "Introduction to Cryptography"
+        },
+        "Part 2": {
+            "pt": "Funções de Hash",
+            "ja": "ハッシュ関数",
+            "es": "Funciones de Hash",
+            "vi": "Hàm Băm",
+            "fr": "Les fonctions de hachage",
+            "de": "Hash-Funktionen",
+            "it": "Funzioni di Hash",
+            "en": "Hash Functions"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Introdução às funções de hash criptográficas relacionadas ao Bitcoin",
+            "ja": "ビットコインに関連する暗号学的ハッシュ関数の紹介",
+            "es": "Introducción a las funciones de hash criptográficas relacionadas con Bitcoin",
+            "vi": "Giới thiệu về hàm băm mật mã liên quan đến Bitcoin",
+            "fr": "Introduction aux fonctions de hachage cryptographique relative à Bitcoin",
+            "de": "Einführung in kryptographische Hash-Funktionen im Zusammenhang mit Bitcoin",
+            "it": "Introduzione alle funzioni di hash crittografiche correlate a Bitcoin",
+            "en": "Introduction to cryptographic hash functions related to Bitcoin"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "O Funcionamento Interno do SHA256",
+            "ja": "SHA256の内部構造",
+            "es": "El funcionamiento interno de SHA256",
+            "vi": "Cơ Chế Hoạt Động của SHA256",
+            "fr": "Les rouages de SHA256",
+            "de": "Die Funktionsweise von SHA256",
+            "it": "Il funzionamento interno di SHA256",
+            "en": "The Inner Workings of SHA256"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Os algoritmos usados para derivação",
+            "ja": "導出に使用されるアルゴリズム",
+            "es": "Los algoritmos utilizados para la derivación",
+            "vi": "Các thuật toán được sử dụng cho việc suy ra",
+            "fr": "Les algorithmes utilisés pour la dérivation",
+            "de": "Die für die Ableitung verwendeten Algorithmen",
+            "it": "Gli algoritmi utilizzati per la derivazione",
+            "en": "The algorithms used for derivation"
+        },
+        "Part 3": {
+            "pt": "Assinaturas Digitais",
+            "ja": "デジタル署名",
+            "es": "Firmas Digitales",
+            "vi": "Chữ ký số",
+            "fr": "Les signatures numériques",
+            "de": "Digitale Signaturen",
+            "it": "Firme digitali",
+            "en": "Digital Signatures"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Assinaturas Digitais e Curvas Elípticas",
+            "ja": "デジタル署名と楕円曲線",
+            "es": "Firmas Digitales y Curvas Elípticas",
+            "vi": "Chữ ký số và Đường cong Elliptic",
+            "fr": "Signatures numériques et courbes elliptiques",
+            "de": "Digitale Signaturen und elliptische Kurven",
+            "it": "Firme digitali e curve ellittiche",
+            "en": "Digital Signatures and Elliptic Curves"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Calculando a chave pública a partir da chave privada",
+            "ja": "私鍵から公開鍵を計算する",
+            "es": "Calculando la clave pública a partir de la clave privada",
+            "vi": "Tính khóa công khai từ khóa riêng",
+            "fr": "Calculer la clé publique à partir de la clé privée",
+            "de": "Berechnung des öffentlichen Schlüssels aus dem privaten Schlüssel",
+            "it": "Calcolo della chiave pubblica dalla chiave privata",
+            "en": "Calculating the public key from the private key"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Assinando com a chave privada",
+            "ja": "私の鍵で署名する",
+            "es": "Firmar con la clave privada",
+            "vi": "Ký bằng khóa riêng",
+            "fr": "Signer avec la clé privée",
+            "de": "Signieren mit dem privaten Schlüssel",
+            "it": "Firma con la chiave privata",
+            "en": "Signing with the private key"
+        },
+        "Part 4": {
+            "pt": "A frase mnemônica",
+            "ja": "ニーモニックフレーズ",
+            "es": "La frase mnemotécnica",
+            "vi": "Cụm từ ghi nhớ",
+            "fr": "La phrase mnémonique",
+            "de": "Die mnemonische Phrase",
+            "it": "La frase mnemonica",
+            "en": "The mnemonic phrase"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Evolução das carteiras de Bitcoin",
+            "ja": "ビットコインウォレットの進化",
+            "es": "Evolución de las carteras de Bitcoin",
+            "vi": "Sự phát triển của ví Bitcoin",
+            "fr": "Évolution des portefeuilles Bitcoin",
+            "de": "Entwicklung von Bitcoin-Wallets",
+            "it": "Evoluzione dei portafogli Bitcoin",
+            "en": "Evolution of Bitcoin wallets"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Entropia e Número Aleatório",
+            "ja": "エントロピーと乱数生成",
+            "es": "Entropía y número aleatorio",
+            "vi": "Entropy và Sinh Số Ngẫu Nhiên",
+            "fr": "Entropie et nombre aléatoire",
+            "de": "Entropie und Zufallszahl",
+            "it": "Entropia e Numero Casuale",
+            "en": "Entropy and Random Number"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "A frase mnemônica",
+            "ja": "ニーモニックフレーズ",
+            "es": "La frase mnemotécnica",
+            "vi": "Cụm từ ghi nhớ",
+            "fr": "La phrase mnémonique",
+            "de": "Die mnemonische Phrase",
+            "it": "La frase mnemonica",
+            "en": "The mnemonic phrase"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "A frase secreta",
+            "ja": "パスフレーズ",
+            "es": "La frase de paso",
+            "vi": "Cụm từ bí mật",
+            "fr": "La passphrase",
+            "de": "Die Passphrase",
+            "it": "La passphrase",
+            "en": "The passphrase"
+        },
+        "Part 5": {
+            "pt": "Criação de Carteiras Bitcoin",
+            "ja": "ビットコインウォレットの作成",
+            "es": "Creación de billeteras de Bitcoin",
+            "vi": "Tạo Ví Bitcoin",
+            "fr": "Création des portefeuilles Bitcoin",
+            "de": "Erstellung von Bitcoin-Wallets",
+            "it": "Creazione dei portafogli Bitcoin",
+            "en": "Creation of Bitcoin Wallets"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Criação da Semente e Chave Mestra",
+            "ja": "シードとマスターキーの作成",
+            "es": "Creación de la semilla y la clave maestra",
+            "vi": "Tạo Seed và Master Key",
+            "fr": "Création de la graine et de la clé maîtresse",
+            "de": "Erstellung des Seeds und des Master Keys",
+            "it": "Creazione del Seed e della Chiave Master",
+            "en": "Creation of the Seed and Master Key"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Chaves Estendidas",
+            "ja": "拡張キー",
+            "es": "Claves Extendidas",
+            "vi": "Khóa Mở Rộng",
+            "fr": "Les clés étendues",
+            "de": "Erweiterte Schlüssel",
+            "it": "Chiavi estese",
+            "en": "Extended Keys"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Derivação de pares de chaves filhas",
+            "ja": "子キーペアの導出",
+            "es": "Derivación de pares de claves secundarias",
+            "vi": "Quá trình tạo ra các cặp khóa con",
+            "fr": "Dérivation des paires de clés enfants",
+            "de": "Ableitung von Kinderschlüsselpaaren",
+            "it": "Derivazione delle coppie di chiavi figlie",
+            "en": "Derivation of child key pairs"
+        },
+        "Part 5 Chapter 4": {
+            "pt": "Estrutura da Carteira e Caminhos de Derivação",
+            "ja": "ウォレット構造と導出パス",
+            "es": "Estructura de la billetera y caminos de derivación",
+            "vi": "Cấu Trúc Ví và Đường Dẫn Tạo Ra",
+            "fr": "Structure du portefeuille et chemins de dérivation",
+            "de": "Wallet-Struktur und Ableitungspfade",
+            "it": "Struttura del portafoglio e percorsi di derivazione",
+            "en": "Wallet Structure and Derivation Paths"
+        },
+        "Part 6": {
+            "pt": "O que é um endereço Bitcoin?",
+            "ja": "ビットコインアドレスとは何ですか？",
+            "es": "¿Qué es una dirección de Bitcoin?",
+            "vi": "Địa chỉ Bitcoin là gì?",
+            "fr": "Qu'est-ce qu'une adresse Bitcoin ?",
+            "de": "Was ist eine Bitcoin-Adresse?",
+            "it": "Cos'è un indirizzo Bitcoin?",
+            "en": "What is a Bitcoin address?"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Endereços Bitcoin",
+            "ja": "ビットコインアドレス",
+            "es": "Direcciones de Bitcoin",
+            "vi": "Địa chỉ Bitcoin",
+            "fr": "Les adresses Bitcoin",
+            "de": "Bitcoin-Adressen",
+            "it": "Indirizzi Bitcoin",
+            "en": "Bitcoin addresses"
+        },
+        "Part 6 Chapter 2": {
+            "pt": "Como criar um endereço Bitcoin?",
+            "ja": "ビットコインアドレスの作成方法は？",
+            "es": "¿Cómo crear una dirección de Bitcoin?",
+            "vi": "Làm thế nào để tạo một địa chỉ Bitcoin?",
+            "fr": "Comment créer une adresse Bitcoin ?",
+            "de": "Wie erstellt man eine Bitcoin-Adresse?",
+            "it": "Come creare un indirizzo Bitcoin?",
+            "en": "How to create a Bitcoin address?"
+        },
+        "Part 7": {
+            "pt": "Vá além",
+            "ja": "より深く掘り下げる",
+            "es": "Ir más allá",
+            "vi": "Tiếp tục",
+            "fr": "Allez plus loins",
+            "de": "Gehe weiter",
+            "it": "Approfondimenti",
+            "en": "Go further"
+        },
+        "Part 7 Chapter 1": {
+            "pt": "Criando uma semente a partir de 128 lançamentos de dados!",
+            "ja": "128回のサイコロのロールからシードを作成する！",
+            "es": "¡Crear una semilla a partir de 128 lanzamientos de dados!",
+            "vi": "Tạo một seed từ 128 lần lắc xúc xắc!",
+            "fr": "Création d’une seed depuis 128 lancés de dés !",
+            "de": "Erstellen eines Seeds aus 128 Würfelwürfen!",
+            "it": "Creazione di un seed da 128 lanci di dadi!",
+            "en": "Creating a seed from 128 dice rolls!"
+        },
+        "Part 7 Chapter 2": {
+            "pt": "BÔNUS: Entrevista com Théo Pantamis",
+            "ja": "ボーナス: テオ・パンタミスとのインタビュー",
+            "es": "BONUS: Entrevista con Théo Pantamis",
+            "vi": "BONUS: Phỏng vấn với Théo Pantamis",
+            "fr": "BONUS: Interview avec Théo Pantamis",
+            "de": "BONUS: Interview mit Théo Pantamis",
+            "it": "BONUS: Intervista con Théo Pantamis",
+            "en": "BONUS: Interview with Théo Pantamis"
+        },
+        "Part 7 Chapter 3": {
+            "pt": "Conclusão e Fim",
+            "ja": "結論と終わり",
+            "es": "Conclusión y final",
+            "vi": "Kết luận và Kết thúc",
+            "fr": "Conclusion et fin",
+            "de": "Fazit und Abschluss",
+            "it": "Conclusioni e fine",
+            "en": "Conclusion and End"
+        }
+    }
+}

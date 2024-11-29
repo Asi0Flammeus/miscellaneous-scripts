@@ -1,0 +1,314 @@
+{
+    "btc101": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "はじめに",
+            "es": "Introducción",
+            "vi": "Giới Thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Um salto para o desconhecido",
+            "ja": "未知への飛躍",
+            "es": "Un salto hacia lo desconocido",
+            "vi": "Bước Nhảy Vào Vô Định",
+            "fr": "Un saut vers l'inconnu",
+            "de": "Ein Sprung ins Unbekannte",
+            "it": "Un salto verso l'ignoto",
+            "en": "A Leap into the Unknown"
+        },
+        "Part 1 Chapter 2": {
+            "pt": "A pré-história do Bitcoin",
+            "ja": "ビットコインの起源",
+            "es": "La prehistoria de Bitcoin",
+            "vi": "Tiền sử của Bitcoin",
+            "fr": "La préhistoire du Bitcoin",
+            "de": "Die Vorgeschichte von Bitcoin",
+            "it": "La preistoria di Bitcoin",
+            "en": "The Prehistory of Bitcoin"
+        },
+        "Part 2": {
+            "pt": "A moeda",
+            "ja": "お金",
+            "es": "La moneda ",
+            "vi": "Tiền Bạc",
+            "fr": "La monnaie",
+            "de": "Die Währung",
+            "it": "La moneta",
+            "en": "Money"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "A moeda ao longo da História",
+            "ja": "歴史を通じたお金",
+            "es": "El moneda a lo largo de la historia ",
+            "vi": "Lịch Sử Tiền Tệ",
+            "fr": "La monnaie à travers l'Histoire",
+            "de": "Die Währung im Laufe der Geschichte",
+            "it": "La moneta attraverso la storia",
+            "en": "Money Throughout History"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Moedas fiduciárias",
+            "ja": "法定通貨",
+            "es": "Las monedas fiduciarias",
+            "vi": "Các đồng tiền tín dụng",
+            "fr": "Les monnaies fiduciaires",
+            "de": "Fiat-Währungen",
+            "it": "Valute fiduciarie",
+            "en": "Fiduciary currencies"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "As hiperinflações",
+            "ja": "ハイパーインフレーション",
+            "es": "Las hiperinflaciones",
+            "vi": "Lạm phát cực đoan",
+            "fr": "Les hyperinflations",
+            "de": "Die Hyperinflationen",
+            "it": "Le iperinflazioni",
+            "en": "Hyperinflation"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "21 milhões de bitcoins",
+            "ja": "2,100万ビットコイン",
+            "es": "21 millones de Bitcoins",
+            "vi": "21 triệu bitcoin",
+            "fr": "21 millions de bitcoins",
+            "de": "21 Millionen Bitcoins",
+            "it": "21 milioni di bitcoin",
+            "en": "21 million bitcoins"
+        },
+        "Part 3": {
+            "pt": "As carteiras de Bitcoin",
+            "ja": "ビットコイン・ウォレット",
+            "es": "Las carteras de Bitcoin",
+            "vi": "Ví Bitcoin",
+            "fr": "Les portefeuilles Bitcoin",
+            "de": "Bitcoin-Wallets",
+            "it": "I portafogli Bitcoin",
+            "en": "Wallets Bitcoin"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "O que são as carteiras de Bitcoin?",
+            "ja": "ビットコイン・ウォレットとは何か？",
+            "es": "¿Qué son las carteras de Bitcoin?",
+            "vi": "Ví Bitcoin là gì?",
+            "fr": "Que sont les portefeuilles Bitcoin ?",
+            "de": "Was sind Bitcoin-Wallets?",
+            "it": "Cosa sono i portafogli Bitcoin?",
+            "en": "What are Bitcoin wallets?"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Segurança e Carteiras Bitcoin",
+            "ja": "セキュリティとビットコイン・ウォレット",
+            "es": "Seguridad y Billeteras de Bitcoin",
+            "vi": "Bảo Mật và Ví Bitcoin",
+            "fr": "Sécurité et Portefeuilles Bitcoin",
+            "de": "Sicherheit und Bitcoin-Brieftaschen",
+            "it": "Sicurezza e Portafogli Bitcoin",
+            "en": "Security and Bitcoin Wallets"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Configurando uma carteira",
+            "ja": "ウォレットの設定",
+            "es": "Configuración de una billetera",
+            "vi": "Thiết lập ví",
+            "fr": "Mise en place d'un portefeuille",
+            "de": "Einrichtung einer Brieftasche",
+            "it": "Creazione di un portafoglio",
+            "en": "Setting up a wallet"
+        },
+        "Part 3 Chapter 4": {
+            "pt": "Passar no teste do tempo",
+            "ja": "時間の試練に耐える",
+            "es": "Pasar la prueba del tiempo",
+            "vi": "Đứng vững trước thử thách của thời gian",
+            "fr": "Passer l’épreuve du temps",
+            "de": "Die Zeit überstehen",
+            "it": "Superare la prova del tempo",
+            "en": "Standing the test of time"
+        },
+        "Part 4": {
+            "pt": "Aspectos técnicos do Bitcoin.",
+            "ja": "ビットコインの技術的な側面",
+            "es": "Los aspectos técnicos de Bitcoin.",
+            "vi": "Các khía cạnh kỹ thuật của Bitcoin.",
+            "fr": "Les aspects techniques du Bitcoin.",
+            "de": "Die technischen Aspekte von Bitcoin.",
+            "it": "Gli aspetti tecnici di Bitcoin.",
+            "en": "The technical aspects of Bitcoin."
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Lançamento do Bitcoin",
+            "ja": "ビットコインの成り立ち",
+            "es": "Lanzamiento de Bitcoin",
+            "vi": "Khởi động Bitcoin",
+            "fr": "Lancement de Bitcoin",
+            "de": "Start von Bitcoin",
+            "it": "Lancio di Bitcoin",
+            "en": "Launching Bitcoin"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Transações Bitcoin",
+            "ja": "ビットコイン・トランザクション",
+            "es": "Las transacciones de Bitcoin",
+            "vi": "Giao dịch Bitcoin",
+            "fr": "Les transactions Bitcoin",
+            "de": "Bitcoin-Transaktionen",
+            "it": "Le transazioni Bitcoin",
+            "en": "Bitcoin transactions"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Os nós Bitcoin",
+            "ja": "ビットコイン・ノード",
+            "es": "Los nodos de Bitcoin",
+            "vi": "Nút Bitcoin",
+            "fr": "Les nœuds Bitcoin",
+            "de": "Bitcoin-Knoten",
+            "it": "I nodi Bitcoin",
+            "en": "Bitcoin Nodes"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "Os mineradores",
+            "ja": "マイナー",
+            "es": "Los mineros",
+            "vi": "Thợ Đào",
+            "fr": "Les mineurs",
+            "de": "Die Miner",
+            "it": "I minatori",
+            "en": "Miners"
+        },
+        "Part 4 Chapter 5": {
+            "pt": "Bitcoin e ecologia",
+            "ja": "ビットコインとエコロジー（環境）",
+            "es": "Bitcoin y la ecología",
+            "vi": "Bitcoin và Môi trường",
+            "fr": "Bitcoin et l’écologie",
+            "de": "Bitcoin und die Umwelt",
+            "it": "Bitcoin e l'ecologia",
+            "en": "Bitcoin and Ecology"
+        },
+        "Part 5": {
+            "pt": "Como obter Bitcoin?",
+            "ja": "ビットコインの入手方法は？",
+            "es": "¿Cómo obtener Bitcoin?",
+            "vi": "Làm thế nào để có được Bitcoin?",
+            "fr": "Comment se procurer des Bitcoin ?",
+            "de": "Wie kann man Bitcoin erhalten?",
+            "it": "Come procurarsi Bitcoin?",
+            "en": "How to obtain Bitcoin?"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Bitcoin nunca dorme!",
+            "ja": "ビットコインは眠らない！",
+            "es": "¡Bitcoin nunca duerme!",
+            "vi": "Bitcoin không bao giờ ngủ!",
+            "fr": "Bitcoin ne dort jamais !",
+            "de": "Bitcoin schläft nie!",
+            "it": "Bitcoin non dorme mai!",
+            "en": "Bitcoin never sleeps!"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Obter bitcoins trabalhando",
+            "ja": "仕事としてビットコインを獲得する",
+            "es": "Obtener bitcoins trabajando",
+            "vi": "Kiếm Bitcoin bằng cách làm việc",
+            "fr": "Obtenir des bitcoins en travaillant",
+            "de": "Bitcoins durch Arbeit erhalten",
+            "it": "Ottenere bitcoin lavorando",
+            "en": "Obtaining bitcoins by working"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Poupar com Bitcoin",
+            "ja": "ビットコインで貯蓄する",
+            "es": "Ahorrar con Bitcoin",
+            "vi": "Tiết kiệm với Bitcoin",
+            "fr": "Épargner avec Bitcoin",
+            "de": "Mit Bitcoin sparen",
+            "it": "Risparmiare con Bitcoin",
+            "en": "Saving with Bitcoin"
+        },
+        "Part 5 Chapter 4": {
+            "pt": "Hyper-bitcoinisation",
+            "ja": "ハイパービットコイナイゼーション",
+            "es": "Hiper-bitcoinización",
+            "vi": "Hyper-bitcoinization",
+            "fr": "Hyper-bitcoinisation",
+            "de": "Hyper-bitcoinisation",
+            "it": "Hyper-bitcoinizzazione",
+            "en": "Hyper-bitcoinization"
+        },
+        "Part 6": {
+            "pt": "O futuro do Bitcoin: A Lightning Network",
+            "ja": "ビットコインの未来：ライトニング・ネットワーク",
+            "es": "El futuro de Bitcoin: Lightning Network",
+            "vi": "Tương Lai của Bitcoin: Mạng Lưới Lightning",
+            "fr": "Le futur de Bitcoin: Le Lightning Network",
+            "de": "Die Zukunft von Bitcoin: Das Lightning Network",
+            "it": "Il futuro di Bitcoin: Lightning Network",
+            "en": "The Future of Bitcoin: The Lightning Network"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Breve introdução à Lightning Network",
+            "ja": "ライトニング・ネットワークの簡単な紹介",
+            "es": "Breve introducción a Lightning Network",
+            "vi": "Giới Thiệu Ngắn Gọn về Mạng Lưới Lightning",
+            "fr": "Courte introduction au Lightning Network",
+            "de": "Kurze Einführung in das Lightning Network",
+            "it": "Breve introduzione a Lightning Network",
+            "en": "A Brief Introduction to the Lightning Network"
+        },
+        "Part 6 Chapter 2": {
+            "pt": "Casos de uso da Lightning Network",
+            "ja": "ライトニング・ネットワークのユースケース",
+            "es": "Casos de uso de la Lightning Network",
+            "vi": "Các Trường Hợp Sử Dụng của Mạng lưới Lightning",
+            "fr": "Cas d’usage du Lightning Network",
+            "de": "Anwendungsfälle des Lightning Network",
+            "it": "Caso d'uso di Lightning Network",
+            "en": "Use Cases of the Lightning Network"
+        },
+        "Part 6 Chapter 3": {
+            "pt": "Pílula azul ou pílula vermelha?",
+            "ja": "赤い錠剤か青い錠剤か？",
+            "es": "¿Píldora azul o píldora roja?",
+            "vi": "Viên thuốc đỏ hay viên thuốc xanh?",
+            "fr": "Pilule bleue ou pilule rouge ?",
+            "de": "Rote Pille oder blaue Pille?",
+            "it": "Pillola blu o pillola rossa?",
+            "en": "Red pill or blue pill?"
+        },
+        "Part 6 Chapter 4": {
+            "pt": "Agradecimentos e continue a cavar a toca do coelho",
+            "ja": "謝辞、そしてラビットホールを探求し続けよう",
+            "es": "Agradecimientos y sigue profundizando en la madriguera del conejo",
+            "vi": "Lời cảm ơn và tiếp tục khám phá",
+            "fr": "Remerciements et continuez à creuser le terrier du lapin",
+            "de": "Dank und weiterhin den Kaninchenbau erkunden",
+            "it": "Ringraziamenti e continua a scavare nella tana del coniglio",
+            "en": "Acknowledgments and keep digging the rabbit hole"
+        },
+        "Part 6 Chapter 5": {
+            "pt": "Apoie-nos",
+            "ja": "私たちをサポートしてください",
+            "es": "Apóyanos",
+            "vi": "Hỗ trợ chúng tôi",
+            "fr": "Soutiens-nous",
+            "de": "Unterstütze uns",
+            "it": "Sostienici",
+            "en": "Support us"
+        },
+        "Part 6 Chapter 6": {
+            "pt": "Avalie o curso",
+            "ja": "トレーニングについての注意事項",
+            "es": "Califica el curso",
+            "vi": "Đánh giá khóa học",
+            "fr": "Note la formation",
+            "de": "Bewerte den Kurs",
+            "it": "Valuta il corso",
+            "en": "Note the training"
+        }
+    }
+}

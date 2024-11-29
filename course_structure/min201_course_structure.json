@@ -1,0 +1,264 @@
+{
+    "min201": {
+        "Part 1": {
+            "pt": "Introdução",
+            "ja": "イントロダクション",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Bem-vindo!",
+            "ja": "ようこそ！",
+            "es": "¡Bienvenido!",
+            "vi": "Chào mừng!",
+            "fr": "Bienvenue!",
+            "de": "Willkommen!",
+            "it": "Benvenuti!",
+            "en": "Welcome!"
+        },
+        "Part 2": {
+            "pt": "Tudo o que você precisa saber sobre mineração",
+            "ja": "マイニングについて知っておくべきすべて",
+            "es": "Conoce todo sobre la minería",
+            "vi": "Tất cả những gì bạn cần biết về Đào",
+            "fr": "Tout connaître sur le minage ",
+            "de": "Alles über das Mining wissen",
+            "it": "Conoscere tutto sul mining",
+            "en": "Everything You Need to Know About Mining"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Explicação da mineração",
+            "ja": "マイニングの説明",
+            "es": "Explicación de la minería",
+            "vi": "Giải thích về Đào",
+            "fr": "Explication du minage",
+            "de": "Erklärung des Minings",
+            "it": "Spiegazione del mining",
+            "en": "Explanation of Mining"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "A indústria de mineração",
+            "ja": "マイニング業界",
+            "es": "La industria de la minería",
+            "vi": "Ngành công nghiệp khai thác",
+            "fr": "L'industrie du minage",
+            "de": "Die Bitcoin-Mining-Industrie",
+            "it": "L'industria del mining",
+            "en": "The mining industry"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "A mineração no protocolo bitcoin",
+            "ja": "ビットコインプロトコルにおけるマイニング",
+            "es": "Las sutilezas de la industria minera",
+            "vi": "Những Sắc Thái của Ngành Khai Thác",
+            "fr": "Les nuances de l'industrie du minage",
+            "de": "Die Nuancen der Mining-Industrie",
+            "it": "Le sfumature dell'industria del mining",
+            "en": "Nuances of the mining industry"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Preço do Bitcoin e Hashrate, uma correlação?",
+            "ja": "ビットコインの価格とハッシュレート、相関関係は？",
+            "es": "La minería en el protocolo bitcoin",
+            "vi": "Đào Bitcoin trong Giao thức Bitcoin",
+            "fr": "Le minage dans le protocole bitcoin",
+            "de": "Das Mining im Bitcoin-Protokoll",
+            "it": "Il mining nel protocollo Bitcoin",
+            "en": "Bitcoin Mining in the Bitcoin Protocol"
+        },
+        "Part 2 Chapter 5": {
+            "pt": "Mineração para a Rede:",
+            "ja": "ビットコインマイニングの利点と欠点",
+            "es": "Precio del bitcoin y hashrate, ¿una correlación?",
+            "vi": "Giá Bitcoin và Hashrate, một Mối quan hệ?",
+            "fr": "Prix du bitcoin et hashrate, une corrélation ?",
+            "de": "Bitcoin-Preis und Hashrate, eine Korrelation?",
+            "it": "Prezzo del bitcoin e hashrate, una correlazione?",
+            "en": "Bitcoin Price and Hashrate, a Correlation?"
+        },
+        "Part 2 Chapter 6": {
+            "pt": "Soberania e Regulação",
+            "ja": "主権と規制",
+            "es": "Soberanía y regulación",
+            "vi": "Chủ quyền và Quy định",
+            "fr": "Souveraineté et régulation",
+            "de": "Souveränität und Regulierung",
+            "it": "Sovranità e regolazione",
+            "en": "Sovereignty and Regulation"
+        },
+        "Part 2 Chapter 7": {
+            "pt": "Entrevista com um profissional da indústria de mineração",
+            "ja": "マイニング業界のプロフェッショナルとのインタビュー",
+            "es": "Entrevista a un profesional de la industria de la minería",
+            "vi": "Phỏng vấn với một chuyên gia ngành công nghiệp khai thác",
+            "fr": "Interview d'un professionnel de l'industrie du minage",
+            "de": "Interview mit einem Fachmann aus der Mining-Industrie",
+            "it": "Intervista a un professionista dell'industria del mining",
+            "en": "Interview with a mining industry professional"
+        },
+        "Part 3": {
+            "pt": "Mineração doméstica e reutilização de calor",
+            "ja": "自宅での鉱業と熱再利用",
+            "es": "Minería en casa y reutilización del calor",
+            "vi": "Khai thác tại nhà và tái sử dụng nhiệt",
+            "fr": "Home-mining et réutilisation de la chaleur",
+            "de": "Home-Mining und Wärmerückgewinnung",
+            "it": "Home-mining e riutilizzo del calore",
+            "en": "Home mining and heat reuse"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Attakai - tornando a mineração doméstica possível e acessível!",
+            "ja": "Attakai - 自宅での鉱業を可能かつアクセスしやすく！",
+            "es": "Attakai - ¡La minería en casa hecha posible y accesible!",
+            "vi": "Attakai - làm cho việc khai thác tại nhà trở nên khả thi và dễ tiếp cận!",
+            "fr": "Attakai - le home-mining rendu possible et accessible !",
+            "de": "Attakai - Home-Mining ermöglicht und zugänglich gemacht!",
+            "it": "Attakai - il home-mining reso possibile e accessibile!",
+            "en": "Attakai - making home mining possible and accessible!"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Guia de compra para um ASIC usado",
+            "ja": "中古ASICの購入ガイド",
+            "es": "Guía de compra para un ASIC de segunda mano",
+            "vi": "Hướng Dẫn Mua Máy ASIC Cũ",
+            "fr": "Guide d’achat pour un ASIC d’occasion",
+            "de": "Leitfaden zum Kauf eines gebrauchten ASIC",
+            "it": "Guida all'acquisto di un ASIC usato",
+            "en": "Buying Guide for a Used ASIC"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Guia de compra de peças para modificações de hardware do S9",
+            "ja": "S9のハードウェア改造の購入ガイド",
+            "es": "Guía de compra de piezas para modificaciones de hardware del S9",
+            "vi": "Hướng dẫn mua sắm phần cứng chỉnh sửa cho S9",
+            "fr": "Guide d’achat des pièces pour modifications hardware du S9",
+            "de": "Anleitung zum Kauf von Hardwarekomponenten für die Modifikation des S9",
+            "it": "Guida all'acquisto di parti per modifiche hardware del S9",
+            "en": "Guide for purchasing hardware modifications for the S9"
+        },
+        "Part 4": {
+            "pt": "Attakai - modificação do software de um Antminer S9",
+            "ja": "Attakai - Antminer S9のソフトウェアの変更",
+            "es": "Attakai - modificación del software de un Antminer S9",
+            "vi": "Attakai - Chỉnh sửa Phần mềm của Antminer S9",
+            "fr": "Attakai - modification du logiciel d’un Antminer S9",
+            "de": "Attakai - Änderung der Software eines Antminer S9",
+            "it": "Attakai - modifica del software di un Antminer S9",
+            "en": "Attakai - Modifying the Software of an Antminer S9"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Configurando uma ponte WIFI/Ethernet Vonet",
+            "ja": "Vonet WIFI/Ethernetブリッジの設定",
+            "es": "Configuración de un puente WIFI/Ethernet Vonet",
+            "vi": "Thiết lập Cầu nối WIFI/Ethernet Vonet",
+            "fr": "Paramétrer un bridge WIFI/Ethernet Vonet",
+            "de": "Einrichten einer Vonet WLAN/Ethernet-Bridge",
+            "it": "Configurazione di un bridge WIFI/Ethernet Vonet",
+            "en": "Setting up a Vonet WIFI/Ethernet Bridge"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "Ressetando um Antminer S9",
+            "ja": "Antminer S9のリセット",
+            "es": "Restablecer un Antminer S9",
+            "vi": "Đặt lại Antminer S9",
+            "fr": "Réinitialiser un Antminer S9",
+            "de": "Zurücksetzen eines Antminer S9",
+            "it": "Ripristinare un Antminer S9",
+            "en": "Resetting an Antminer S9"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Instalando o BraiinsOS+ em um Antminer S9",
+            "ja": "Antminer S9にBraiinsOS+をインストールする",
+            "es": "Instalar BraiinsOS+ en un Antminer S9",
+            "vi": "Cài đặt BraiinsOS+ trên Antminer S9",
+            "fr": "Installer BraiinsOS+ sur un Antminer S9",
+            "de": "BraiinsOS+ auf einem Antminer S9 installieren",
+            "it": "Installare BraiinsOS+ su un Antminer S9",
+            "en": "Installing BraiinsOS+ on an Antminer S9"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "Configurando o BraiinsOS+",
+            "ja": "BraiinsOS+の設定",
+            "es": "Configurar BraiinsOS+",
+            "vi": "Cấu hình BraiinsOS+",
+            "fr": "Configurer BraiinsOS+",
+            "de": "BraiinsOS+ konfigurieren",
+            "it": "Configurare BraiinsOS+",
+            "en": "Configure BraiinsOS+"
+        },
+        "Part 5": {
+            "pt": "Attakai - Modificação dos ventiladores",
+            "ja": "Attakai - ファンの改造",
+            "es": "Attakai - Modificación de los ventiladores",
+            "vi": "Attakai - Chỉnh sửa quạt",
+            "fr": "Attakai - Modification des ventilateurs",
+            "de": "Attakai - Lüftermodifikation",
+            "it": "Attakai - Modifica delle ventole",
+            "en": "Attakai - Fan Modification"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Substituindo o ventilador da fonte de alimentação",
+            "ja": "電源ファンの交換",
+            "es": "Reemplazar el ventilador de la fuente de alimentación",
+            "vi": "Thay quạt nguồn",
+            "fr": "Remplacer le ventilateur de l'alimentation",
+            "de": "Austausch des Netzteil-Lüfters",
+            "it": "Sostituire la ventola dell'alimentatore",
+            "en": "Replace the power supply fan"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Substituindo os Ventiladores Principais",
+            "ja": "メインファンの交換",
+            "es": "Reemplazar los ventiladores principales",
+            "vi": "Thay Thế Quạt Chính",
+            "fr": "Remplacer les ventilateurs Principaux",
+            "de": "Ersetzen der Hauptlüfter",
+            "it": "Sostituire i Ventilatori Principali",
+            "en": "Replacing the Main Fans"
+        },
+        "Part 6": {
+            "pt": "Attakai - Configuração",
+            "ja": "Attakai - 設定",
+            "es": "Attakai - Configuración",
+            "vi": "Attakai - Cấu Hình",
+            "fr": "Attakai - Paramétrage",
+            "de": "Attakai - Konfiguration",
+            "it": "Attakai - Configurazione",
+            "en": "Attakai - Configuration"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Juntando-se a um pool de mineração",
+            "ja": "マイニングプールへの参加",
+            "es": "Unirse a un grupo de minería",
+            "vi": "Tham gia một nhóm đào",
+            "fr": "Rejoindre une pool de minage",
+            "de": "Beitritt zu einem Mining-Pool",
+            "it": "Unisciti a un pool di mining",
+            "en": "Joining a mining pool"
+        },
+        "Part 6 Chapter 2": {
+            "pt": "Otimizando o desempenho do Antminer S9",
+            "ja": "Antminer S9のパフォーマンスの最適化",
+            "es": "Optimizar el rendimiento de su Antminer S9",
+            "vi": "Tối ưu hóa hiệu suất của Antminer S9 của bạn",
+            "fr": "Optimiser les performances de sont Antminer S9",
+            "de": "Optimieren Sie die Leistung Ihres Antminer S9",
+            "it": "Ottimizzare le prestazioni del proprio Antminer S9",
+            "en": "Optimizing the Performance of Your Antminer S9"
+        },
+        "Part 6 Chapter 3": {
+            "pt": "Controlando um Antminer S9 pelo smartphone",
+            "ja": "スマートフォンでAntminer S9を制御する",
+            "es": "Controlar un Antminer S9 desde un smartphone",
+            "vi": "Điều khiển Antminer S9 từ điện thoại thông minh của bạn",
+            "fr": "Contrôler un Antminer S9 depuis son smartphone",
+            "de": "Steuern Sie einen Antminer S9 von Ihrem Smartphone aus",
+            "it": "Controllare un Antminer S9 dal proprio smartphone",
+            "en": "Controlling an Antminer S9 from your smartphone"
+        }
+    }
+}

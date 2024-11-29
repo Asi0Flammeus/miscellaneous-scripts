@@ -1,0 +1,134 @@
+{
+    "econ201": {
+        "Part 1": {
+            "pt": "Introdução à ECON",
+            "ja": "経済学入門",
+            "es": "Introducción a ECON",
+            "vi": "Giới thiệu về ECON",
+            "fr": "Introduction à ECON",
+            "de": "Einführung in die Wirtschaftswissenschaften",
+            "it": "Introduzione all'ECON",
+            "en": "Introduction to ECON"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução",
+            "ja": "イントロダクション",
+            "es": "Introducción",
+            "vi": "Giới thiệu",
+            "fr": "Introduction",
+            "de": "Einführung",
+            "it": "Introduzione",
+            "en": "Introduction "
+        },
+        "Part 1 Chapter 2": {
+            "pt": "Dinheiro, Crédito, Bancos e Bancos Centrais",
+            "ja": "お金、クレジット、銀行、中央銀行",
+            "es": "Dinero, Crédito, Bancos y Bancos Centrales",
+            "vi": "Tiền tệ, Tín dụng, Ngân hàng, và Ngân hàng Trung ương",
+            "fr": "L'argent, le crédit, les banques et les banques centrales",
+            "de": "Geld, Kredit, Banken und Zentralbanken",
+            "it": "Denaro, Credito, Banche e Banche Centrali",
+            "en": "Money, Credit, Banks, and Central Banks"
+        },
+        "Part 2": {
+            "pt": "Fundamentos Teóricos",
+            "ja": "理論的基盤",
+            "es": "Fundamentos Teóricos",
+            "vi": "Nền tảng Lý thuyết",
+            "fr": "Fondements théoriques",
+            "de": "Theoretische Grundlagen",
+            "it": "Fondamenti Teorici",
+            "en": "Theoretical Foundations"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "A Teoria Subjetiva do Valor",
+            "ja": "主観的価値理論",
+            "es": "La Teoría Subjetiva del Valor",
+            "vi": "Lý thuyết Giá trị Chủ quan",
+            "fr": "La théorie subjective de la valeur",
+            "de": "Die subjektive Werttheorie",
+            "it": "La Teoria Soggettiva del Valore",
+            "en": "The Subjective Theory of Value"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "O Surgimento do Dinheiro como um Fenômeno Social",
+            "ja": "社会現象としてのお金の出現",
+            "es": "El Surgimiento del Dinero como un Fenómeno Social",
+            "vi": "Sự Xuất Hiện của Tiền Tệ như một Hiện Tượng Xã Hội",
+            "fr": "L'émergence de l'argent en tant que phénomène social",
+            "de": "Das Entstehen von Geld als soziales Phänomen",
+            "it": "L'emergere del denaro come fenomeno sociale",
+            "en": "The Emergence of Money as a Social Phenomenon"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Preferência Temporal, Juros e Capital",
+            "ja": "時間的選好、利子、および資本",
+            "es": "Preferencia Temporal, Interés y Capital",
+            "vi": "Sở Thích Thời Gian, Lãi Suất và Vốn",
+            "fr": "Préférence Temporelle, Intérêt et Capital",
+            "de": "Zeitpräferenz, Zinsen und Kapital",
+            "it": "Preferenza Temporale, Interesse e Capitale",
+            "en": "Time Preference, Interest, and Capital"
+        },
+        "Part 3": {
+            "pt": "Perspectivas Econômicas Austríacas",
+            "ja": "オーストリア経済の視点",
+            "es": "Perspectivas Económicas Austriacas",
+            "vi": "Quan điểm Kinh tế Áo",
+            "fr": "Perspectives économiques autrichiennes",
+            "de": "Österreichische Wirtschaftsperspektiven",
+            "it": "Prospettive Economiche Austriache",
+            "en": "Austrian Economic Perspectives"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "A Teoria Austríaca do Ciclo Econômico",
+            "ja": "オーストリア学派の景気循環理論",
+            "es": "La Teoría Austriaca del Ciclo Económico",
+            "vi": "Lý thuyết Chu kỳ Kinh doanh của Áo",
+            "fr": "La théorie autrichienne du cycle économique",
+            "de": "Die österreichische Theorie des Konjunkturzyklus",
+            "it": "La Teoria Austriaca del Ciclo Economico",
+            "en": "The Austrian Theory of the Business Cycle"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "A Impossibilidade do Cálculo Econômico sob o Socialismo",
+            "ja": "社会主義における経済計算の不可能性",
+            "es": "La Imposibilidad del Cálculo Económico en el Socialismo",
+            "vi": "Sự Bất Khả Thi của Tính Toán Kinh Tế dưới Chủ Nghĩa Xã Hội",
+            "fr": "L'impossibilité du calcul économique sous le socialisme",
+            "de": "Die Unmöglichkeit der wirtschaftlichen Berechnung im Sozialismus",
+            "it": "L'Impossibilità del Calcolo Economico nel Socialismo",
+            "en": "The Impossibility of Economic Calculation under Socialism"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "A Metodologia Austríaca",
+            "ja": "オーストリア学派の方法論",
+            "es": "La Metodología Austriaca",
+            "vi": "Phương Pháp Luận Áo",
+            "fr": "La Méthodologie Autrichienne",
+            "de": "Die österreichische Methodik",
+            "it": "La Metodologia Austriaca",
+            "en": "The Austrian Methodology"
+        },
+        "Part 4": {
+            "pt": "Conclusão",
+            "ja": "結論",
+            "es": "Conclusión",
+            "vi": "Kết luận",
+            "fr": "Conclusion",
+            "de": "Fazit",
+            "it": "Conclusioni",
+            "en": "Conclusion "
+        },
+        "Part 4 Chapter 1": {
+            "pt": "Estudos adicionais",
+            "ja": "さらなる研究",
+            "es": "Estudios adicionales",
+            "vi": "Học thêm",
+            "fr": "Études supplémentaires",
+            "de": "Weitere Studien",
+            "it": "Ulteriori studi",
+            "en": "Further studies"
+        }
+    }
+}

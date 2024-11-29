@@ -1,0 +1,304 @@
+{
+    "cuboplus": {
+        "Part 1": {
+            "pt": "Introdução e cursos preparatórios",
+            "ja": "導入と準備コース",
+            "es": "Introducción y cursos preparatorios",
+            "vi": "Giới thiệu và các khóa học chuẩn bị",
+            "fr": "Introduction et cours préparatoires",
+            "de": "Einführung und Vorbereitungskurse",
+            "it": "Introduzione e corsi preparatori",
+            "en": "Introduction and preparatory courses"
+        },
+        "Part 1 Chapter 1": {
+            "pt": "Introdução aos cursos CUBO+",
+            "ja": "CUBO+コースへの導入",
+            "es": "Introducción a los cursos de CUBO+",
+            "vi": "Giới thiệu về các khóa học CUBO+",
+            "fr": "Introduction aux cours CUBO+",
+            "de": "Einführung in die CUBO+ Kurse",
+            "it": "Introduzione ai corsi di CUBO+",
+            "en": "Introduction to CUBO+ courses"
+        },
+        "Part 1 Chapter 2": {
+            "pt": "Por que o Bitcoin",
+            "ja": "なぜBitcoinか",
+            "es": "Por qué Bitcoin",
+            "vi": "Tại sao là Bitcoin",
+            "fr": "Pourquoi Bitcoin",
+            "de": "Warum Bitcoin",
+            "it": "Perché Bitcoin",
+            "en": "Why Bitcoin"
+        },
+        "Part 1 Chapter 3": {
+            "pt": "Como o Bitcoin",
+            "ja": "Bitcoinの仕組み",
+            "es": "Cómo Bitcoin",
+            "vi": "Làm thế nào Bitcoin",
+            "fr": "Comment Bitcoin",
+            "de": "Wie Bitcoin",
+            "it": "Come Bitcoin",
+            "en": "How Bitcoin"
+        },
+        "Part 1 Chapter 4": {
+            "pt": "Desmistificando o Bitcoin",
+            "ja": "Bitcoinの誤解を解く",
+            "es": "Desacreditando Bitcoin",
+            "vi": "Phá Bỏ Bitcoin",
+            "fr": "Démystification de Bitcoin",
+            "de": "Bitcoin entzaubern",
+            "it": "Smontare Bitcoin",
+            "en": "Debunk Bitcoin"
+        },
+        "Part 1 Chapter 5": {
+            "pt": "Executando o Bitcoin",
+            "ja": "Bitcoinの運用",
+            "es": "Ejecutando Bitcoin",
+            "vi": "Vận Hành Bitcoin",
+            "fr": "Exécution de Bitcoin",
+            "de": "Bitcoin ausführen",
+            "it": "Esecuzione di Bitcoin",
+            "en": "Running Bitcoin"
+        },
+        "Part 1 Chapter 6": {
+            "pt": "Melhorando o Bitcoin",
+            "ja": "Bitcoinの改善",
+            "es": "Mejorando Bitcoin",
+            "vi": "Cải Thiện Bitcoin",
+            "fr": "Améliorer Bitcoin",
+            "de": "Bitcoin verbessern",
+            "it": "Migliorare Bitcoin",
+            "en": "Imrpoving Bitcoin"
+        },
+        "Part 2": {
+            "pt": "Fundamentos do Bitcoin",
+            "ja": "Bitcoinの基礎",
+            "es": "Fundamentos de Bitcoin",
+            "vi": "Cơ Bản về Bitcoin",
+            "fr": "Fondamentaux de Bitcoin",
+            "de": "Bitcoin-Grundlagen",
+            "it": "Fondamenti di Bitcoin",
+            "en": "Bitcoin Fundamentals"
+        },
+        "Part 2 Chapter 1": {
+            "pt": "Pensamento de Segurança no Bitcoin",
+            "ja": "Bitcoinにおけるセキュリティ思考",
+            "es": "Pensamiento de Seguridad en Bitcoin",
+            "vi": "Tư Duy Bảo Mật trong Bitcoin",
+            "fr": "La réflexion sur la sécurité dans Bitcoin",
+            "de": "Sicherheitsdenken in Bitcoin",
+            "it": "Pensiero sulla sicurezza in Bitcoin",
+            "en": "Security Thinking in Bitcoin"
+        },
+        "Part 2 Chapter 2": {
+            "pt": "Software Livre e de Código Aberto (FLOSS) no Bitcoin",
+            "ja": "Bitcoinにおけるフリーかつオープンソースソフトウェア（FLOSS）",
+            "es": "Software Libre y de Código Abierto (FLOSS) en Bitcoin",
+            "vi": "Phần Mềm Tự Do và Mã Nguồn Mở (FLOSS) trong Bitcoin",
+            "fr": "Logiciel libre et open source (FLOSS) dans Bitcoin",
+            "de": "Freie und Open-Source-Software (FLOSS) in Bitcoin",
+            "it": "Software libero e open source (FLOSS) in Bitcoin",
+            "en": "Free and Open Source Software (FLOSS) in Bitcoin"
+        },
+        "Part 2 Chapter 3": {
+            "pt": "Criptografia no Bitcoin",
+            "ja": "Bitcoinにおける暗号学",
+            "es": "Criptografía en Bitcoin",
+            "vi": "Mật Mã học trong Bitcoin",
+            "fr": "Cryptographie dans Bitcoin",
+            "de": "Kryptographie in Bitcoin",
+            "it": "Crittografia in Bitcoin",
+            "en": "Cryptography in Bitcoin"
+        },
+        "Part 2 Chapter 4": {
+            "pt": "Modelo de Governança do Bitcoin",
+            "ja": "Bitcoinのガバナンスモデル",
+            "es": "Modelo de Gobernanza de Bitcoin",
+            "vi": "Mô Hình Quản Trị của Bitcoin",
+            "fr": "Le modèle de gouvernance de Bitcoin",
+            "de": "Bitcoin-Governance-Modell",
+            "it": "Modello di governance di Bitcoin",
+            "en": "Bitcoin's Governance Model"
+        },
+        "Part 3": {
+            "pt": "Conceitos da Camada Um",
+            "ja": "レイヤーワンの概念",
+            "es": "Conceptos de la Capa Uno",
+            "vi": "Các Khái Niệm Tầng Một",
+            "fr": "Concepts de la couche un",
+            "de": "Layer-One-Konzepte",
+            "it": "Concetti di Layer One",
+            "en": "Layer One Concepts"
+        },
+        "Part 3 Chapter 1": {
+            "pt": "Componentes do Node no Bitcoin",
+            "ja": "Bitcoinにおけるノードコンポーネント",
+            "es": "Componentes de un Nodo en Bitcoin",
+            "vi": "Các Thành Phần Nút trong Bitcoin",
+            "fr": "Les composants d'un nœud Bitcoin",
+            "de": "Knotenkomponenten in Bitcoin",
+            "it": "Componenti del nodo in Bitcoin",
+            "en": "Node Components in Bitcoin"
+        },
+        "Part 3 Chapter 2": {
+            "pt": "Estruturas de Dados do Bitcoin",
+            "ja": "ビットコインのデータ構造",
+            "es": "Estructuras de Datos de Bitcoin",
+            "vi": "Cấu Trúc Dữ Liệu của Bitcoin",
+            "fr": "Les structures de données de Bitcoin",
+            "de": "Datenstrukturen in Bitcoin",
+            "it": "Strutture dati di Bitcoin",
+            "en": "Bitcoin's Data Structures"
+        },
+        "Part 3 Chapter 3": {
+            "pt": "Pilha de Software Bitcoin L1",
+            "ja": "ビットコインL1ソフトウェアスタック",
+            "es": "Pila de Software Bitcoin L1",
+            "vi": "Bitcoin L1 Software Stack",
+            "fr": "Stack logiciel Bitcoin L1",
+            "de": "Bitcoin L1 Software Stack",
+            "it": "Stack Software di Bitcoin L1",
+            "en": "Bitcoin L1 Software Stack"
+        },
+        "Part 4": {
+            "pt": "Lightning Network",
+            "ja": "ライトニングネットワーク",
+            "es": "Lightning Network",
+            "vi": "Lightning Network",
+            "fr": "Lightning Network",
+            "de": "Lightning Network",
+            "it": "Lightning Network",
+            "en": "Lightning Network"
+        },
+        "Part 4 Chapter 1": {
+            "pt": "História dos Canais de Pagamento",
+            "ja": "支払いチャネルの歴史",
+            "es": "Historia de los Canales de Pago",
+            "vi": "Lịch Sử của Payment Channels",
+            "fr": "Histoire des canaux de paiement",
+            "de": "Geschichte der Zahlungskanäle",
+            "it": "Storia dei Canali di Pagamento",
+            "en": "History of Payment Channels"
+        },
+        "Part 4 Chapter 2": {
+            "pt": "História do Roteamento Atômico",
+            "ja": "アトミックルーティングの歴史",
+            "es": "Historia del Enrutamiento Atómico",
+            "vi": "Lịch Sử của Atomic Routing",
+            "fr": "Histoire du routage atomique",
+            "de": "Geschichte des Atomic Routing",
+            "it": "Storia del Routing Atomico",
+            "en": "History of Atomic Routing"
+        },
+        "Part 4 Chapter 3": {
+            "pt": "Revisão do BOLT",
+            "ja": "BOLTレビュー",
+            "es": "Revisión de BOLT",
+            "vi": "Đánh Giá BOLT",
+            "fr": "Examen de BOLT",
+            "de": "BOLT-Überprüfung",
+            "it": "Revisione di BOLT",
+            "en": "BOLT Review"
+        },
+        "Part 4 Chapter 4": {
+            "pt": "Principais Clientes da LN",
+            "ja": "主要なLNクライアント",
+            "es": "Principales Clientes de LN",
+            "vi": "Các LN Clients Chính",
+            "fr": "Principaux clients LN",
+            "de": "Wichtige LN-Clients",
+            "it": "Principali Client LN",
+            "en": "Major LN Clients"
+        },
+        "Part 5": {
+            "pt": "Os Desafios da LN",
+            "ja": "LNの課題",
+            "es": "Los Desafíos de LN",
+            "vi": "Thách Thức của LN",
+            "fr": "Les défis du LN",
+            "de": "Die Herausforderungen des LN",
+            "it": "Le Sfide di LN",
+            "en": "The Challenges of LN"
+        },
+        "Part 5 Chapter 1": {
+            "pt": "Desafios Práticos para a LN",
+            "ja": "LNの実践的な課題",
+            "es": "Desafíos Prácticos para LN",
+            "vi": "Thách Thức Thực Tế đối với LN",
+            "fr": "Défis pratiques pour LN",
+            "de": "Praktische Herausforderungen für LN",
+            "it": "Sfide Pratiche per LN",
+            "en": "Practical Challenges to LN"
+        },
+        "Part 5 Chapter 2": {
+            "pt": "Futura Evolução da LN",
+            "ja": "LNの将来の進化",
+            "es": "Futura Evolución de LN",
+            "vi": "Sự Tiến Hóa Tương Lai của LN",
+            "fr": "Évolution future du LN",
+            "de": "LN Future Evolution",
+            "it": "Futura Evoluzione di LN",
+            "en": "LN Future Evolution"
+        },
+        "Part 5 Chapter 3": {
+            "pt": "Protocolos sobre a LN",
+            "ja": "LNの上のプロトコル",
+            "es": "Protocolos sobre LN",
+            "vi": "Các Giao Thức trên LN",
+            "fr": "Protocoles sur le LN",
+            "de": "Protokolle auf dem LN",
+            "it": "Protocolli sopra LN",
+            "en": "Protocols on top of LN"
+        },
+        "Part 6": {
+            "pt": "Bônus",
+            "ja": "ボーナス",
+            "es": "Bonus",
+            "vi": "Phần Thưởng",
+            "fr": "Bonus",
+            "de": "Bonus",
+            "it": "Bonus",
+            "en": "Bonus"
+        },
+        "Part 6 Chapter 1": {
+            "pt": "Conceitos Essenciais de Mineração de Bitcoin",
+            "ja": "ビットコインマイニングの基本",
+            "es": "Fundamentos de la Minería de Bitcoin",
+            "vi": "Cơ Bản về Đào Bitcoin",
+            "fr": "Principes essentiels du minage de Bitcoin",
+            "de": "Bitcoin Mining Essentials",
+            "it": "Concetti essenziali del mining di Bitcoin",
+            "en": "Bitcoin Mining Essentials"
+        },
+        "Part 6 Chapter 2": {
+            "pt": "Compreendendo o Joinmarket",
+            "ja": "Joinmarketの理解",
+            "es": "Comprendiendo Joinmarket",
+            "vi": "Hiểu về Joinmarket",
+            "fr": "Comprendre Joinmarket",
+            "de": "Understanding Joinmarket",
+            "it": "Comprensione di Joinmarket",
+            "en": "Understanding Joinmarket"
+        },
+        "Part 6 Chapter 3": {
+            "pt": "Cubo+ Hackathon do primeiro ano",
+            "ja": "Cubo+ 初年度ハッカソン",
+            "es": "Cubo+ primer año Hackathon",
+            "vi": "Hackathon Năm Đầu Tiên của Cubo+",
+            "fr": "Hackathon de la première année de Cubo+",
+            "de": "Cubo+ erstes Jahr Hackathon",
+            "it": "Cubo+ primo anno Hackathon",
+            "en": "Cubo+ first year Hackathon"
+        },
+        "Part 6 Chapter 4": {
+            "pt": "Agradecimentos ",
+            "ja": "謝辞",
+            "es": "Reconocimientos",
+            "vi": "Lời Cảm Ơn",
+            "fr": "Remerciements",
+            "de": "Danksagungen",
+            "it": "Riconoscimenti ",
+            "en": "Acknowledgments"
+        }
+    }
+}
